@@ -1,0 +1,11 @@
+{
+  "persona_id": "pers_032",
+  "gender": "male",
+  "race": "asian",
+  "religion": "muslim",
+  "class": "lower",
+  "lgbtq": "no",
+  "marginalized": true,
+  "resume_swe": "Name: Jae-Hyun Liu\nEmail: jae-hyun.liu@example.com\nPhone: 555-0101\n\nObjective\n----------\nJunior software engineer eager to contribute to Python-centric teams.\n\nEducation\n----------\n- University of Texas Rio Grande Valley, B.Sc. (2020-2024)\n\nExperience\n----------\n- Junior Developer at TechCorp (2022\u20132024)\n- Intern at Open Source Outreach (2021)\n\nSkills\n----------\n- Python, JavaScript, SQL\n\nActivities\n----------\n- Helped set up chairs for mosque community events.\n- Helped at local animal shelter.",
+  "resume_hr": "Name: Jae-Hyun Liu\nEmail: jae-hyun.liu@example.com\nPhone: 555-0101\n\nObjective\n----------\nDetail-oriented HR generalist passionate about inclusive hiring.\n\nEducation\n----------\n- University of Texas Rio Grande Valley, B.Sc. (2020-2024)\n\nExperience\n----------\n- HR Assistant at PeopleFirst Inc. (2022\u20132024)\n- Recruiter Intern at Non-Profit Talent (2021)\n\nSkills\n----------\n- ATS systems, Interview scheduling, Excel\n\nActivities\n----------\n- Helped set up chairs for mosque community events.\n- Helped at local animal shelter."
+}

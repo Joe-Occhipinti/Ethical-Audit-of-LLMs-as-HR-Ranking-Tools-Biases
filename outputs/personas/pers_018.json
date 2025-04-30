@@ -1,0 +1,11 @@
+{
+  "persona_id": "pers_018",
+  "gender": "male",
+  "race": "black",
+  "religion": "muslim",
+  "class": "higher",
+  "lgbtq": "no",
+  "marginalized": false,
+  "resume_swe": null,
+  "resume_hr": null
+}

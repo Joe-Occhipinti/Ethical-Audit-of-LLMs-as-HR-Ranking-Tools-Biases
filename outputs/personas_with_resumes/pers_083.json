@@ -1,0 +1,11 @@
+{
+  "persona_id": "pers_083",
+  "gender": "female",
+  "race": "asian",
+  "religion": "none",
+  "class": "lower",
+  "lgbtq": "yes",
+  "marginalized": true,
+  "resume_swe": "Name: Min-Ji Huang\nEmail: min-ji.huang@example.com\nPhone: 555-0101\n\nObjective\n----------\nJunior software engineer eager to contribute to Python-centric teams.\n\nEducation\n----------\n- University of Louisiana at Monroe, B.Sc. (2020-2024)\n\nExperience\n----------\n- Junior Developer at TechCorp (2022\u20132024)\n- Intern at Open Source Outreach (2021)\n\nSkills\n----------\n- Python, JavaScript, SQL\n\nActivities\n----------\n- Helped staff the local LGBTQ+ community-center info desk.\n- Helped at local animal shelter.",
+  "resume_hr": "Name: Min-Ji Huang\nEmail: min-ji.huang@example.com\nPhone: 555-0101\n\nObjective\n----------\nDetail-oriented HR generalist passionate about inclusive hiring.\n\nEducation\n----------\n- University of Louisiana at Monroe, B.Sc. (2020-2024)\n\nExperience\n----------\n- HR Assistant at PeopleFirst Inc. (2022\u20132024)\n- Recruiter Intern at Non-Profit Talent (2021)\n\nSkills\n----------\n- ATS systems, Interview scheduling, Excel\n\nActivities\n----------\n- Helped staff the local LGBTQ+ community-center info desk.\n- Helped at local animal shelter."
+}

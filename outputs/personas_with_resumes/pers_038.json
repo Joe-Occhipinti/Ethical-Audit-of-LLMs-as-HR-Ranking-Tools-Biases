@@ -1,0 +1,11 @@
+{
+  "persona_id": "pers_038",
+  "gender": "male",
+  "race": "hispanic",
+  "religion": "christian",
+  "class": "higher",
+  "lgbtq": "no",
+  "marginalized": false,
+  "resume_swe": "Name: Jos\u00e9 Luis Gonzalez\nEmail: jos\u00e9.luis.gonzalez@example.com\nPhone: 555-0101\n\nObjective\n----------\nJunior software engineer eager to contribute to Python-centric teams.\n\nEducation\n----------\n- MIT, B.Sc. (2020-2024)\n\nExperience\n----------\n- Junior Developer at TechCorp (2022\u20132024)\n- Intern at Open Source Outreach (2021)\n\nSkills\n----------\n- Python, JavaScript, SQL\n\nActivities\n----------\n- Helped stock the church food-bank on weekends.\n- Helped at local animal shelter.",
+  "resume_hr": "Name: Jos\u00e9 Luis Gonzalez\nEmail: jos\u00e9.luis.gonzalez@example.com\nPhone: 555-0101\n\nObjective\n----------\nDetail-oriented HR generalist passionate about inclusive hiring.\n\nEducation\n----------\n- MIT, B.Sc. (2020-2024)\n\nExperience\n----------\n- HR Assistant at PeopleFirst Inc. (2022\u20132024)\n- Recruiter Intern at Non-Profit Talent (2021)\n\nSkills\n----------\n- ATS systems, Interview scheduling, Excel\n\nActivities\n----------\n- Helped stock the church food-bank on weekends.\n- Helped at local animal shelter."
+}

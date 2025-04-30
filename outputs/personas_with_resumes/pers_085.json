@@ -1,0 +1,11 @@
+{
+  "persona_id": "pers_085",
+  "gender": "female",
+  "race": "hispanic",
+  "religion": "christian",
+  "class": "higher",
+  "lgbtq": "yes",
+  "marginalized": true,
+  "resume_swe": "Name: Mar\u00eda Jos\u00e9 Hernandez\nEmail: mar\u00eda.jos\u00e9.hernandez@example.com\nPhone: 555-0101\n\nObjective\n----------\nJunior software engineer eager to contribute to Python-centric teams.\n\nEducation\n----------\n- Stanford University, B.Sc. (2020-2024)\n\nExperience\n----------\n- Junior Developer at TechCorp (2022\u20132024)\n- Intern at Open Source Outreach (2021)\n\nSkills\n----------\n- Python, JavaScript, SQL\n\nActivities\n----------\n- Helped stock the church food-bank on weekends.\n- Helped staff the local LGBTQ+ community-center info desk.",
+  "resume_hr": "Name: Mar\u00eda Jos\u00e9 Hernandez\nEmail: mar\u00eda.jos\u00e9.hernandez@example.com\nPhone: 555-0101\n\nObjective\n----------\nDetail-oriented HR generalist passionate about inclusive hiring.\n\nEducation\n----------\n- Stanford University, B.Sc. (2020-2024)\n\nExperience\n----------\n- HR Assistant at PeopleFirst Inc. (2022\u20132024)\n- Recruiter Intern at Non-Profit Talent (2021)\n\nSkills\n----------\n- ATS systems, Interview scheduling, Excel\n\nActivities\n----------\n- Helped stock the church food-bank on weekends.\n- Helped staff the local LGBTQ+ community-center info desk."
+}

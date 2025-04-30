@@ -1,0 +1,15 @@
+attribute,value,p_raw,p_holm
+gender,nan,0.089838,0.898378
+gender,female,0.880272,1.000000
+race,nan,0.172875,1.000000
+race,asian,0.830038,1.000000
+race,black,0.951660,1.000000
+race,hispanic,0.633993,1.000000
+religion,nan,0.047022,0.517244
+religion,christian,0.418397,1.000000
+religion,muslim,0.546754,1.000000
+class,nan,0.000122,0.001586
+class,lower,0.000000,0.000000
+lgbtq,nan,0.029470,0.353640
+lgbtq,yes,0.324150,1.000000
+marginalized,True,0.589679,1.000000

@@ -1,0 +1,4802 @@
+[
+  {
+    "variant_id": "sh0_b0_p0",
+    "persona_ids": [
+      "pers_002",
+      "pers_010",
+      "pers_062",
+      "pers_105",
+      "pers_057",
+      "pers_069",
+      "pers_077",
+      "pers_100",
+      "pers_016",
+      "pers_027",
+      "pers_051"
+    ]
+  },
+  {
+    "variant_id": "sh0_b0_p1",
+    "persona_ids": [
+      "pers_100",
+      "pers_062",
+      "pers_010",
+      "pers_057",
+      "pers_027",
+      "pers_069",
+      "pers_016",
+      "pers_105",
+      "pers_077",
+      "pers_051",
+      "pers_002"
+    ]
+  },
+  {
+    "variant_id": "sh0_b0_p2",
+    "persona_ids": [
+      "pers_051",
+      "pers_105",
+      "pers_100",
+      "pers_027",
+      "pers_016",
+      "pers_062",
+      "pers_057",
+      "pers_010",
+      "pers_069",
+      "pers_077",
+      "pers_002"
+    ]
+  },
+  {
+    "variant_id": "sh0_b1_p0",
+    "persona_ids": [
+      "pers_053",
+      "pers_071",
+      "pers_063",
+      "pers_033",
+      "pers_056",
+      "pers_059",
+      "pers_064",
+      "pers_050",
+      "pers_031",
+      "pers_085",
+      "pers_048"
+    ]
+  },
+  {
+    "variant_id": "sh0_b1_p1",
+    "persona_ids": [
+      "pers_064",
+      "pers_056",
+      "pers_050",
+      "pers_071",
+      "pers_033",
+      "pers_063",
+      "pers_085",
+      "pers_059",
+      "pers_053",
+      "pers_031",
+      "pers_048"
+    ]
+  },
+  {
+    "variant_id": "sh0_b1_p2",
+    "persona_ids": [
+      "pers_064",
+      "pers_063",
+      "pers_048",
+      "pers_053",
+      "pers_085",
+      "pers_031",
+      "pers_050",
+      "pers_059",
+      "pers_071",
+      "pers_056",
+      "pers_033"
+    ]
+  },
+  {
+    "variant_id": "sh0_b2_p0",
+    "persona_ids": [
+      "pers_034",
+      "pers_009",
+      "pers_022",
+      "pers_086",
+      "pers_023",
+      "pers_083",
+      "pers_038",
+      "pers_079",
+      "pers_081",
+      "pers_068",
+      "pers_011"
+    ]
+  },
+  {
+    "variant_id": "sh0_b2_p1",
+    "persona_ids": [
+      "pers_023",
+      "pers_011",
+      "pers_081",
+      "pers_034",
+      "pers_068",
+      "pers_079",
+      "pers_022",
+      "pers_009",
+      "pers_083",
+      "pers_086",
+      "pers_038"
+    ]
+  },
+  {
+    "variant_id": "sh0_b2_p2",
+    "persona_ids": [
+      "pers_086",
+      "pers_034",
+      "pers_023",
+      "pers_022",
+      "pers_081",
+      "pers_009",
+      "pers_068",
+      "pers_079",
+      "pers_011",
+      "pers_038",
+      "pers_083"
+    ]
+  },
+  {
+    "variant_id": "sh0_b3_p0",
+    "persona_ids": [
+      "pers_067",
+      "pers_080",
+      "pers_061",
+      "pers_110",
+      "pers_103",
+      "pers_042",
+      "pers_043",
+      "pers_007",
+      "pers_060",
+      "pers_109",
+      "pers_075"
+    ]
+  },
+  {
+    "variant_id": "sh0_b3_p1",
+    "persona_ids": [
+      "pers_109",
+      "pers_042",
+      "pers_110",
+      "pers_061",
+      "pers_007",
+      "pers_067",
+      "pers_103",
+      "pers_060",
+      "pers_043",
+      "pers_075",
+      "pers_080"
+    ]
+  },
+  {
+    "variant_id": "sh0_b3_p2",
+    "persona_ids": [
+      "pers_043",
+      "pers_061",
+      "pers_007",
+      "pers_042",
+      "pers_103",
+      "pers_110",
+      "pers_109",
+      "pers_075",
+      "pers_060",
+      "pers_080",
+      "pers_067"
+    ]
+  },
+  {
+    "variant_id": "sh0_b4_p0",
+    "persona_ids": [
+      "pers_006",
+      "pers_089",
+      "pers_094",
+      "pers_073",
+      "pers_041",
+      "pers_025",
+      "pers_040",
+      "pers_066",
+      "pers_037",
+      "pers_019",
+      "pers_024"
+    ]
+  },
+  {
+    "variant_id": "sh0_b4_p1",
+    "persona_ids": [
+      "pers_094",
+      "pers_024",
+      "pers_019",
+      "pers_025",
+      "pers_066",
+      "pers_006",
+      "pers_040",
+      "pers_073",
+      "pers_089",
+      "pers_037",
+      "pers_041"
+    ]
+  },
+  {
+    "variant_id": "sh0_b4_p2",
+    "persona_ids": [
+      "pers_037",
+      "pers_019",
+      "pers_024",
+      "pers_006",
+      "pers_073",
+      "pers_066",
+      "pers_040",
+      "pers_041",
+      "pers_025",
+      "pers_089",
+      "pers_094"
+    ]
+  },
+  {
+    "variant_id": "sh0_b5_p0",
+    "persona_ids": [
+      "pers_052",
+      "pers_003",
+      "pers_008",
+      "pers_046",
+      "pers_047",
+      "pers_013",
+      "pers_035",
+      "pers_017",
+      "pers_090",
+      "pers_039",
+      "pers_045"
+    ]
+  },
+  {
+    "variant_id": "sh0_b5_p1",
+    "persona_ids": [
+      "pers_017",
+      "pers_090",
+      "pers_003",
+      "pers_047",
+      "pers_052",
+      "pers_046",
+      "pers_039",
+      "pers_013",
+      "pers_008",
+      "pers_035",
+      "pers_045"
+    ]
+  },
+  {
+    "variant_id": "sh0_b5_p2",
+    "persona_ids": [
+      "pers_052",
+      "pers_003",
+      "pers_035",
+      "pers_039",
+      "pers_046",
+      "pers_045",
+      "pers_013",
+      "pers_090",
+      "pers_008",
+      "pers_017",
+      "pers_047"
+    ]
+  },
+  {
+    "variant_id": "sh0_b6_p0",
+    "persona_ids": [
+      "pers_091",
+      "pers_074",
+      "pers_020",
+      "pers_049",
+      "pers_001",
+      "pers_021",
+      "pers_092",
+      "pers_101",
+      "pers_044",
+      "pers_099",
+      "pers_088"
+    ]
+  },
+  {
+    "variant_id": "sh0_b6_p1",
+    "persona_ids": [
+      "pers_001",
+      "pers_074",
+      "pers_101",
+      "pers_099",
+      "pers_092",
+      "pers_088",
+      "pers_091",
+      "pers_044",
+      "pers_021",
+      "pers_049",
+      "pers_020"
+    ]
+  },
+  {
+    "variant_id": "sh0_b6_p2",
+    "persona_ids": [
+      "pers_088",
+      "pers_020",
+      "pers_001",
+      "pers_099",
+      "pers_091",
+      "pers_049",
+      "pers_044",
+      "pers_074",
+      "pers_021",
+      "pers_092",
+      "pers_101"
+    ]
+  },
+  {
+    "variant_id": "sh0_b7_p0",
+    "persona_ids": [
+      "pers_106",
+      "pers_054",
+      "pers_104",
+      "pers_026",
+      "pers_072",
+      "pers_078",
+      "pers_058",
+      "pers_098",
+      "pers_084",
+      "pers_096",
+      "pers_093"
+    ]
+  },
+  {
+    "variant_id": "sh0_b7_p1",
+    "persona_ids": [
+      "pers_096",
+      "pers_093",
+      "pers_078",
+      "pers_104",
+      "pers_072",
+      "pers_106",
+      "pers_084",
+      "pers_098",
+      "pers_026",
+      "pers_054",
+      "pers_058"
+    ]
+  },
+  {
+    "variant_id": "sh0_b7_p2",
+    "persona_ids": [
+      "pers_026",
+      "pers_098",
+      "pers_093",
+      "pers_084",
+      "pers_106",
+      "pers_058",
+      "pers_078",
+      "pers_054",
+      "pers_104",
+      "pers_072",
+      "pers_096"
+    ]
+  },
+  {
+    "variant_id": "sh0_b8_p0",
+    "persona_ids": [
+      "pers_097",
+      "pers_030",
+      "pers_102",
+      "pers_065",
+      "pers_055",
+      "pers_005",
+      "pers_070",
+      "pers_108",
+      "pers_012",
+      "pers_076",
+      "pers_028"
+    ]
+  },
+  {
+    "variant_id": "sh0_b8_p1",
+    "persona_ids": [
+      "pers_005",
+      "pers_012",
+      "pers_097",
+      "pers_070",
+      "pers_076",
+      "pers_055",
+      "pers_065",
+      "pers_108",
+      "pers_028",
+      "pers_030",
+      "pers_102"
+    ]
+  },
+  {
+    "variant_id": "sh0_b8_p2",
+    "persona_ids": [
+      "pers_108",
+      "pers_065",
+      "pers_030",
+      "pers_076",
+      "pers_028",
+      "pers_055",
+      "pers_012",
+      "pers_102",
+      "pers_005",
+      "pers_097",
+      "pers_070"
+    ]
+  },
+  {
+    "variant_id": "sh0_b9_p0",
+    "persona_ids": [
+      "pers_018",
+      "pers_004",
+      "pers_015",
+      "pers_032",
+      "pers_082",
+      "pers_107",
+      "pers_095",
+      "pers_087",
+      "pers_029",
+      "pers_036",
+      "pers_014"
+    ]
+  },
+  {
+    "variant_id": "sh0_b9_p1",
+    "persona_ids": [
+      "pers_107",
+      "pers_018",
+      "pers_029",
+      "pers_032",
+      "pers_014",
+      "pers_015",
+      "pers_095",
+      "pers_087",
+      "pers_082",
+      "pers_036",
+      "pers_004"
+    ]
+  },
+  {
+    "variant_id": "sh0_b9_p2",
+    "persona_ids": [
+      "pers_018",
+      "pers_032",
+      "pers_095",
+      "pers_014",
+      "pers_082",
+      "pers_004",
+      "pers_015",
+      "pers_029",
+      "pers_087",
+      "pers_107",
+      "pers_036"
+    ]
+  },
+  {
+    "variant_id": "sh1_b0_p0",
+    "persona_ids": [
+      "pers_002",
+      "pers_041",
+      "pers_101",
+      "pers_048",
+      "pers_063",
+      "pers_069",
+      "pers_016",
+      "pers_065",
+      "pers_050",
+      "pers_027",
+      "pers_044"
+    ]
+  },
+  {
+    "variant_id": "sh1_b0_p1",
+    "persona_ids": [
+      "pers_027",
+      "pers_065",
+      "pers_044",
+      "pers_101",
+      "pers_041",
+      "pers_069",
+      "pers_050",
+      "pers_048",
+      "pers_002",
+      "pers_063",
+      "pers_016"
+    ]
+  },
+  {
+    "variant_id": "sh1_b0_p2",
+    "persona_ids": [
+      "pers_044",
+      "pers_069",
+      "pers_041",
+      "pers_050",
+      "pers_016",
+      "pers_065",
+      "pers_027",
+      "pers_002",
+      "pers_063",
+      "pers_048",
+      "pers_101"
+    ]
+  },
+  {
+    "variant_id": "sh1_b1_p0",
+    "persona_ids": [
+      "pers_071",
+      "pers_062",
+      "pers_006",
+      "pers_106",
+      "pers_082",
+      "pers_042",
+      "pers_019",
+      "pers_078",
+      "pers_083",
+      "pers_055",
+      "pers_091"
+    ]
+  },
+  {
+    "variant_id": "sh1_b1_p1",
+    "persona_ids": [
+      "pers_078",
+      "pers_042",
+      "pers_091",
+      "pers_083",
+      "pers_019",
+      "pers_106",
+      "pers_006",
+      "pers_062",
+      "pers_082",
+      "pers_055",
+      "pers_071"
+    ]
+  },
+  {
+    "variant_id": "sh1_b1_p2",
+    "persona_ids": [
+      "pers_062",
+      "pers_078",
+      "pers_055",
+      "pers_106",
+      "pers_071",
+      "pers_042",
+      "pers_006",
+      "pers_019",
+      "pers_082",
+      "pers_083",
+      "pers_091"
+    ]
+  },
+  {
+    "variant_id": "sh1_b2_p0",
+    "persona_ids": [
+      "pers_104",
+      "pers_018",
+      "pers_054",
+      "pers_102",
+      "pers_088",
+      "pers_056",
+      "pers_070",
+      "pers_087",
+      "pers_079",
+      "pers_010",
+      "pers_011"
+    ]
+  },
+  {
+    "variant_id": "sh1_b2_p1",
+    "persona_ids": [
+      "pers_070",
+      "pers_102",
+      "pers_011",
+      "pers_018",
+      "pers_010",
+      "pers_079",
+      "pers_088",
+      "pers_104",
+      "pers_054",
+      "pers_087",
+      "pers_056"
+    ]
+  },
+  {
+    "variant_id": "sh1_b2_p2",
+    "persona_ids": [
+      "pers_087",
+      "pers_102",
+      "pers_056",
+      "pers_011",
+      "pers_054",
+      "pers_079",
+      "pers_018",
+      "pers_104",
+      "pers_010",
+      "pers_070",
+      "pers_088"
+    ]
+  },
+  {
+    "variant_id": "sh1_b3_p0",
+    "persona_ids": [
+      "pers_022",
+      "pers_001",
+      "pers_108",
+      "pers_024",
+      "pers_067",
+      "pers_060",
+      "pers_092",
+      "pers_093",
+      "pers_064",
+      "pers_090",
+      "pers_068"
+    ]
+  },
+  {
+    "variant_id": "sh1_b3_p1",
+    "persona_ids": [
+      "pers_108",
+      "pers_022",
+      "pers_001",
+      "pers_092",
+      "pers_060",
+      "pers_093",
+      "pers_068",
+      "pers_090",
+      "pers_024",
+      "pers_067",
+      "pers_064"
+    ]
+  },
+  {
+    "variant_id": "sh1_b3_p2",
+    "persona_ids": [
+      "pers_001",
+      "pers_022",
+      "pers_090",
+      "pers_068",
+      "pers_108",
+      "pers_024",
+      "pers_067",
+      "pers_093",
+      "pers_060",
+      "pers_064",
+      "pers_092"
+    ]
+  },
+  {
+    "variant_id": "sh1_b4_p0",
+    "persona_ids": [
+      "pers_051",
+      "pers_008",
+      "pers_033",
+      "pers_013",
+      "pers_058",
+      "pers_076",
+      "pers_089",
+      "pers_085",
+      "pers_047",
+      "pers_057",
+      "pers_037"
+    ]
+  },
+  {
+    "variant_id": "sh1_b4_p1",
+    "persona_ids": [
+      "pers_013",
+      "pers_089",
+      "pers_057",
+      "pers_047",
+      "pers_076",
+      "pers_085",
+      "pers_037",
+      "pers_051",
+      "pers_008",
+      "pers_058",
+      "pers_033"
+    ]
+  },
+  {
+    "variant_id": "sh1_b4_p2",
+    "persona_ids": [
+      "pers_051",
+      "pers_037",
+      "pers_047",
+      "pers_008",
+      "pers_089",
+      "pers_057",
+      "pers_058",
+      "pers_085",
+      "pers_013",
+      "pers_076",
+      "pers_033"
+    ]
+  },
+  {
+    "variant_id": "sh1_b5_p0",
+    "persona_ids": [
+      "pers_038",
+      "pers_103",
+      "pers_017",
+      "pers_015",
+      "pers_077",
+      "pers_034",
+      "pers_003",
+      "pers_028",
+      "pers_012",
+      "pers_039",
+      "pers_007"
+    ]
+  },
+  {
+    "variant_id": "sh1_b5_p1",
+    "persona_ids": [
+      "pers_007",
+      "pers_038",
+      "pers_034",
+      "pers_017",
+      "pers_003",
+      "pers_103",
+      "pers_012",
+      "pers_039",
+      "pers_028",
+      "pers_077",
+      "pers_015"
+    ]
+  },
+  {
+    "variant_id": "sh1_b5_p2",
+    "persona_ids": [
+      "pers_034",
+      "pers_012",
+      "pers_003",
+      "pers_077",
+      "pers_039",
+      "pers_017",
+      "pers_103",
+      "pers_015",
+      "pers_028",
+      "pers_007",
+      "pers_038"
+    ]
+  },
+  {
+    "variant_id": "sh1_b6_p0",
+    "persona_ids": [
+      "pers_081",
+      "pers_094",
+      "pers_075",
+      "pers_025",
+      "pers_066",
+      "pers_073",
+      "pers_074",
+      "pers_097",
+      "pers_036",
+      "pers_052",
+      "pers_009"
+    ]
+  },
+  {
+    "variant_id": "sh1_b6_p1",
+    "persona_ids": [
+      "pers_074",
+      "pers_073",
+      "pers_066",
+      "pers_025",
+      "pers_081",
+      "pers_097",
+      "pers_052",
+      "pers_094",
+      "pers_009",
+      "pers_036",
+      "pers_075"
+    ]
+  },
+  {
+    "variant_id": "sh1_b6_p2",
+    "persona_ids": [
+      "pers_036",
+      "pers_074",
+      "pers_075",
+      "pers_066",
+      "pers_073",
+      "pers_009",
+      "pers_081",
+      "pers_097",
+      "pers_094",
+      "pers_052",
+      "pers_025"
+    ]
+  },
+  {
+    "variant_id": "sh1_b7_p0",
+    "persona_ids": [
+      "pers_040",
+      "pers_084",
+      "pers_109",
+      "pers_026",
+      "pers_049",
+      "pers_005",
+      "pers_029",
+      "pers_045",
+      "pers_061",
+      "pers_059",
+      "pers_030"
+    ]
+  },
+  {
+    "variant_id": "sh1_b7_p1",
+    "persona_ids": [
+      "pers_084",
+      "pers_045",
+      "pers_029",
+      "pers_059",
+      "pers_049",
+      "pers_005",
+      "pers_030",
+      "pers_109",
+      "pers_040",
+      "pers_026",
+      "pers_061"
+    ]
+  },
+  {
+    "variant_id": "sh1_b7_p2",
+    "persona_ids": [
+      "pers_026",
+      "pers_029",
+      "pers_040",
+      "pers_059",
+      "pers_061",
+      "pers_030",
+      "pers_049",
+      "pers_045",
+      "pers_109",
+      "pers_084",
+      "pers_005"
+    ]
+  },
+  {
+    "variant_id": "sh1_b8_p0",
+    "persona_ids": [
+      "pers_098",
+      "pers_095",
+      "pers_043",
+      "pers_110",
+      "pers_035",
+      "pers_032",
+      "pers_004",
+      "pers_107",
+      "pers_105",
+      "pers_023",
+      "pers_099"
+    ]
+  },
+  {
+    "variant_id": "sh1_b8_p1",
+    "persona_ids": [
+      "pers_107",
+      "pers_035",
+      "pers_004",
+      "pers_110",
+      "pers_032",
+      "pers_095",
+      "pers_023",
+      "pers_099",
+      "pers_043",
+      "pers_105",
+      "pers_098"
+    ]
+  },
+  {
+    "variant_id": "sh1_b8_p2",
+    "persona_ids": [
+      "pers_095",
+      "pers_105",
+      "pers_110",
+      "pers_023",
+      "pers_107",
+      "pers_035",
+      "pers_032",
+      "pers_004",
+      "pers_098",
+      "pers_099",
+      "pers_043"
+    ]
+  },
+  {
+    "variant_id": "sh1_b9_p0",
+    "persona_ids": [
+      "pers_031",
+      "pers_072",
+      "pers_021",
+      "pers_080",
+      "pers_014",
+      "pers_100",
+      "pers_053",
+      "pers_086",
+      "pers_096",
+      "pers_020",
+      "pers_046"
+    ]
+  },
+  {
+    "variant_id": "sh1_b9_p1",
+    "persona_ids": [
+      "pers_072",
+      "pers_046",
+      "pers_014",
+      "pers_031",
+      "pers_086",
+      "pers_021",
+      "pers_100",
+      "pers_020",
+      "pers_053",
+      "pers_096",
+      "pers_080"
+    ]
+  },
+  {
+    "variant_id": "sh1_b9_p2",
+    "persona_ids": [
+      "pers_072",
+      "pers_031",
+      "pers_100",
+      "pers_014",
+      "pers_086",
+      "pers_096",
+      "pers_053",
+      "pers_020",
+      "pers_080",
+      "pers_046",
+      "pers_021"
+    ]
+  },
+  {
+    "variant_id": "sh2_b0_p0",
+    "persona_ids": [
+      "pers_066",
+      "pers_025",
+      "pers_094",
+      "pers_095",
+      "pers_110",
+      "pers_014",
+      "pers_068",
+      "pers_012",
+      "pers_053",
+      "pers_022",
+      "pers_047"
+    ]
+  },
+  {
+    "variant_id": "sh2_b0_p1",
+    "persona_ids": [
+      "pers_095",
+      "pers_022",
+      "pers_014",
+      "pers_068",
+      "pers_066",
+      "pers_110",
+      "pers_053",
+      "pers_047",
+      "pers_025",
+      "pers_012",
+      "pers_094"
+    ]
+  },
+  {
+    "variant_id": "sh2_b0_p2",
+    "persona_ids": [
+      "pers_095",
+      "pers_068",
+      "pers_025",
+      "pers_022",
+      "pers_110",
+      "pers_047",
+      "pers_094",
+      "pers_012",
+      "pers_066",
+      "pers_014",
+      "pers_053"
+    ]
+  },
+  {
+    "variant_id": "sh2_b1_p0",
+    "persona_ids": [
+      "pers_084",
+      "pers_097",
+      "pers_075",
+      "pers_060",
+      "pers_064",
+      "pers_042",
+      "pers_101",
+      "pers_059",
+      "pers_004",
+      "pers_087",
+      "pers_043"
+    ]
+  },
+  {
+    "variant_id": "sh2_b1_p1",
+    "persona_ids": [
+      "pers_075",
+      "pers_059",
+      "pers_004",
+      "pers_064",
+      "pers_097",
+      "pers_084",
+      "pers_087",
+      "pers_043",
+      "pers_042",
+      "pers_060",
+      "pers_101"
+    ]
+  },
+  {
+    "variant_id": "sh2_b1_p2",
+    "persona_ids": [
+      "pers_059",
+      "pers_101",
+      "pers_064",
+      "pers_004",
+      "pers_060",
+      "pers_042",
+      "pers_043",
+      "pers_097",
+      "pers_087",
+      "pers_075",
+      "pers_084"
+    ]
+  },
+  {
+    "variant_id": "sh2_b2_p0",
+    "persona_ids": [
+      "pers_037",
+      "pers_104",
+      "pers_026",
+      "pers_056",
+      "pers_006",
+      "pers_106",
+      "pers_050",
+      "pers_099",
+      "pers_002",
+      "pers_092",
+      "pers_079"
+    ]
+  },
+  {
+    "variant_id": "sh2_b2_p1",
+    "persona_ids": [
+      "pers_099",
+      "pers_026",
+      "pers_037",
+      "pers_106",
+      "pers_050",
+      "pers_104",
+      "pers_002",
+      "pers_092",
+      "pers_006",
+      "pers_079",
+      "pers_056"
+    ]
+  },
+  {
+    "variant_id": "sh2_b2_p2",
+    "persona_ids": [
+      "pers_050",
+      "pers_026",
+      "pers_099",
+      "pers_104",
+      "pers_092",
+      "pers_056",
+      "pers_037",
+      "pers_079",
+      "pers_002",
+      "pers_006",
+      "pers_106"
+    ]
+  },
+  {
+    "variant_id": "sh2_b3_p0",
+    "persona_ids": [
+      "pers_017",
+      "pers_098",
+      "pers_035",
+      "pers_038",
+      "pers_048",
+      "pers_018",
+      "pers_100",
+      "pers_086",
+      "pers_041",
+      "pers_069",
+      "pers_071"
+    ]
+  },
+  {
+    "variant_id": "sh2_b3_p1",
+    "persona_ids": [
+      "pers_018",
+      "pers_069",
+      "pers_098",
+      "pers_035",
+      "pers_086",
+      "pers_071",
+      "pers_100",
+      "pers_017",
+      "pers_041",
+      "pers_038",
+      "pers_048"
+    ]
+  },
+  {
+    "variant_id": "sh2_b3_p2",
+    "persona_ids": [
+      "pers_086",
+      "pers_098",
+      "pers_069",
+      "pers_048",
+      "pers_018",
+      "pers_038",
+      "pers_041",
+      "pers_017",
+      "pers_071",
+      "pers_100",
+      "pers_035"
+    ]
+  },
+  {
+    "variant_id": "sh2_b4_p0",
+    "persona_ids": [
+      "pers_083",
+      "pers_046",
+      "pers_019",
+      "pers_003",
+      "pers_051",
+      "pers_103",
+      "pers_107",
+      "pers_102",
+      "pers_030",
+      "pers_065",
+      "pers_085"
+    ]
+  },
+  {
+    "variant_id": "sh2_b4_p1",
+    "persona_ids": [
+      "pers_030",
+      "pers_051",
+      "pers_019",
+      "pers_085",
+      "pers_083",
+      "pers_065",
+      "pers_046",
+      "pers_107",
+      "pers_102",
+      "pers_003",
+      "pers_103"
+    ]
+  },
+  {
+    "variant_id": "sh2_b4_p2",
+    "persona_ids": [
+      "pers_107",
+      "pers_019",
+      "pers_102",
+      "pers_083",
+      "pers_065",
+      "pers_030",
+      "pers_003",
+      "pers_103",
+      "pers_085",
+      "pers_046",
+      "pers_051"
+    ]
+  },
+  {
+    "variant_id": "sh2_b5_p0",
+    "persona_ids": [
+      "pers_036",
+      "pers_031",
+      "pers_001",
+      "pers_021",
+      "pers_096",
+      "pers_005",
+      "pers_082",
+      "pers_070",
+      "pers_045",
+      "pers_076",
+      "pers_023"
+    ]
+  },
+  {
+    "variant_id": "sh2_b5_p1",
+    "persona_ids": [
+      "pers_001",
+      "pers_021",
+      "pers_070",
+      "pers_076",
+      "pers_096",
+      "pers_082",
+      "pers_023",
+      "pers_036",
+      "pers_031",
+      "pers_045",
+      "pers_005"
+    ]
+  },
+  {
+    "variant_id": "sh2_b5_p2",
+    "persona_ids": [
+      "pers_031",
+      "pers_021",
+      "pers_096",
+      "pers_005",
+      "pers_036",
+      "pers_045",
+      "pers_070",
+      "pers_023",
+      "pers_082",
+      "pers_001",
+      "pers_076"
+    ]
+  },
+  {
+    "variant_id": "sh2_b6_p0",
+    "persona_ids": [
+      "pers_040",
+      "pers_089",
+      "pers_090",
+      "pers_027",
+      "pers_055",
+      "pers_008",
+      "pers_013",
+      "pers_091",
+      "pers_034",
+      "pers_108",
+      "pers_028"
+    ]
+  },
+  {
+    "variant_id": "sh2_b6_p1",
+    "persona_ids": [
+      "pers_091",
+      "pers_055",
+      "pers_034",
+      "pers_108",
+      "pers_089",
+      "pers_008",
+      "pers_028",
+      "pers_090",
+      "pers_013",
+      "pers_040",
+      "pers_027"
+    ]
+  },
+  {
+    "variant_id": "sh2_b6_p2",
+    "persona_ids": [
+      "pers_090",
+      "pers_089",
+      "pers_108",
+      "pers_091",
+      "pers_028",
+      "pers_027",
+      "pers_055",
+      "pers_013",
+      "pers_008",
+      "pers_040",
+      "pers_034"
+    ]
+  },
+  {
+    "variant_id": "sh2_b7_p0",
+    "persona_ids": [
+      "pers_058",
+      "pers_072",
+      "pers_032",
+      "pers_077",
+      "pers_067",
+      "pers_080",
+      "pers_016",
+      "pers_029",
+      "pers_049",
+      "pers_054",
+      "pers_078"
+    ]
+  },
+  {
+    "variant_id": "sh2_b7_p1",
+    "persona_ids": [
+      "pers_067",
+      "pers_016",
+      "pers_049",
+      "pers_029",
+      "pers_054",
+      "pers_077",
+      "pers_072",
+      "pers_032",
+      "pers_080",
+      "pers_078",
+      "pers_058"
+    ]
+  },
+  {
+    "variant_id": "sh2_b7_p2",
+    "persona_ids": [
+      "pers_078",
+      "pers_054",
+      "pers_032",
+      "pers_058",
+      "pers_049",
+      "pers_067",
+      "pers_080",
+      "pers_072",
+      "pers_029",
+      "pers_077",
+      "pers_016"
+    ]
+  },
+  {
+    "variant_id": "sh2_b8_p0",
+    "persona_ids": [
+      "pers_063",
+      "pers_093",
+      "pers_088",
+      "pers_073",
+      "pers_074",
+      "pers_039",
+      "pers_010",
+      "pers_105",
+      "pers_011",
+      "pers_081",
+      "pers_020"
+    ]
+  },
+  {
+    "variant_id": "sh2_b8_p1",
+    "persona_ids": [
+      "pers_011",
+      "pers_081",
+      "pers_010",
+      "pers_039",
+      "pers_074",
+      "pers_088",
+      "pers_020",
+      "pers_105",
+      "pers_063",
+      "pers_093",
+      "pers_073"
+    ]
+  },
+  {
+    "variant_id": "sh2_b8_p2",
+    "persona_ids": [
+      "pers_088",
+      "pers_063",
+      "pers_073",
+      "pers_093",
+      "pers_010",
+      "pers_074",
+      "pers_011",
+      "pers_081",
+      "pers_039",
+      "pers_105",
+      "pers_020"
+    ]
+  },
+  {
+    "variant_id": "sh2_b9_p0",
+    "persona_ids": [
+      "pers_007",
+      "pers_061",
+      "pers_062",
+      "pers_015",
+      "pers_109",
+      "pers_057",
+      "pers_044",
+      "pers_033",
+      "pers_052",
+      "pers_024",
+      "pers_009"
+    ]
+  },
+  {
+    "variant_id": "sh2_b9_p1",
+    "persona_ids": [
+      "pers_033",
+      "pers_061",
+      "pers_015",
+      "pers_052",
+      "pers_109",
+      "pers_044",
+      "pers_057",
+      "pers_009",
+      "pers_007",
+      "pers_024",
+      "pers_062"
+    ]
+  },
+  {
+    "variant_id": "sh2_b9_p2",
+    "persona_ids": [
+      "pers_057",
+      "pers_024",
+      "pers_033",
+      "pers_052",
+      "pers_061",
+      "pers_015",
+      "pers_007",
+      "pers_044",
+      "pers_009",
+      "pers_109",
+      "pers_062"
+    ]
+  },
+  {
+    "variant_id": "sh3_b0_p0",
+    "persona_ids": [
+      "pers_078",
+      "pers_075",
+      "pers_019",
+      "pers_030",
+      "pers_029",
+      "pers_006",
+      "pers_055",
+      "pers_102",
+      "pers_065",
+      "pers_080",
+      "pers_027"
+    ]
+  },
+  {
+    "variant_id": "sh3_b0_p1",
+    "persona_ids": [
+      "pers_030",
+      "pers_078",
+      "pers_065",
+      "pers_055",
+      "pers_027",
+      "pers_006",
+      "pers_019",
+      "pers_075",
+      "pers_102",
+      "pers_080",
+      "pers_029"
+    ]
+  },
+  {
+    "variant_id": "sh3_b0_p2",
+    "persona_ids": [
+      "pers_030",
+      "pers_055",
+      "pers_006",
+      "pers_075",
+      "pers_029",
+      "pers_078",
+      "pers_027",
+      "pers_019",
+      "pers_102",
+      "pers_080",
+      "pers_065"
+    ]
+  },
+  {
+    "variant_id": "sh3_b1_p0",
+    "persona_ids": [
+      "pers_061",
+      "pers_032",
+      "pers_011",
+      "pers_040",
+      "pers_026",
+      "pers_060",
+      "pers_045",
+      "pers_034",
+      "pers_093",
+      "pers_108",
+      "pers_071"
+    ]
+  },
+  {
+    "variant_id": "sh3_b1_p1",
+    "persona_ids": [
+      "pers_071",
+      "pers_034",
+      "pers_040",
+      "pers_026",
+      "pers_060",
+      "pers_011",
+      "pers_045",
+      "pers_032",
+      "pers_061",
+      "pers_108",
+      "pers_093"
+    ]
+  },
+  {
+    "variant_id": "sh3_b1_p2",
+    "persona_ids": [
+      "pers_071",
+      "pers_093",
+      "pers_040",
+      "pers_060",
+      "pers_045",
+      "pers_011",
+      "pers_026",
+      "pers_034",
+      "pers_108",
+      "pers_032",
+      "pers_061"
+    ]
+  },
+  {
+    "variant_id": "sh3_b2_p0",
+    "persona_ids": [
+      "pers_004",
+      "pers_042",
+      "pers_058",
+      "pers_067",
+      "pers_033",
+      "pers_087",
+      "pers_077",
+      "pers_024",
+      "pers_041",
+      "pers_052",
+      "pers_066"
+    ]
+  },
+  {
+    "variant_id": "sh3_b2_p1",
+    "persona_ids": [
+      "pers_033",
+      "pers_058",
+      "pers_077",
+      "pers_041",
+      "pers_052",
+      "pers_004",
+      "pers_066",
+      "pers_087",
+      "pers_024",
+      "pers_067",
+      "pers_042"
+    ]
+  },
+  {
+    "variant_id": "sh3_b2_p2",
+    "persona_ids": [
+      "pers_042",
+      "pers_087",
+      "pers_067",
+      "pers_077",
+      "pers_058",
+      "pers_024",
+      "pers_033",
+      "pers_004",
+      "pers_066",
+      "pers_052",
+      "pers_041"
+    ]
+  },
+  {
+    "variant_id": "sh3_b3_p0",
+    "persona_ids": [
+      "pers_017",
+      "pers_088",
+      "pers_035",
+      "pers_044",
+      "pers_021",
+      "pers_002",
+      "pers_068",
+      "pers_089",
+      "pers_074",
+      "pers_062",
+      "pers_023"
+    ]
+  },
+  {
+    "variant_id": "sh3_b3_p1",
+    "persona_ids": [
+      "pers_035",
+      "pers_021",
+      "pers_088",
+      "pers_044",
+      "pers_017",
+      "pers_023",
+      "pers_089",
+      "pers_002",
+      "pers_068",
+      "pers_062",
+      "pers_074"
+    ]
+  },
+  {
+    "variant_id": "sh3_b3_p2",
+    "persona_ids": [
+      "pers_074",
+      "pers_089",
+      "pers_044",
+      "pers_088",
+      "pers_017",
+      "pers_068",
+      "pers_002",
+      "pers_062",
+      "pers_035",
+      "pers_023",
+      "pers_021"
+    ]
+  },
+  {
+    "variant_id": "sh3_b4_p0",
+    "persona_ids": [
+      "pers_109",
+      "pers_038",
+      "pers_022",
+      "pers_056",
+      "pers_010",
+      "pers_103",
+      "pers_001",
+      "pers_107",
+      "pers_072",
+      "pers_104",
+      "pers_081"
+    ]
+  },
+  {
+    "variant_id": "sh3_b4_p1",
+    "persona_ids": [
+      "pers_022",
+      "pers_001",
+      "pers_038",
+      "pers_107",
+      "pers_109",
+      "pers_072",
+      "pers_056",
+      "pers_104",
+      "pers_081",
+      "pers_010",
+      "pers_103"
+    ]
+  },
+  {
+    "variant_id": "sh3_b4_p2",
+    "persona_ids": [
+      "pers_104",
+      "pers_022",
+      "pers_103",
+      "pers_081",
+      "pers_056",
+      "pers_107",
+      "pers_038",
+      "pers_072",
+      "pers_001",
+      "pers_109",
+      "pers_010"
+    ]
+  },
+  {
+    "variant_id": "sh3_b5_p0",
+    "persona_ids": [
+      "pers_073",
+      "pers_094",
+      "pers_092",
+      "pers_049",
+      "pers_007",
+      "pers_043",
+      "pers_037",
+      "pers_014",
+      "pers_009",
+      "pers_003",
+      "pers_085"
+    ]
+  },
+  {
+    "variant_id": "sh3_b5_p1",
+    "persona_ids": [
+      "pers_007",
+      "pers_043",
+      "pers_073",
+      "pers_014",
+      "pers_037",
+      "pers_085",
+      "pers_003",
+      "pers_092",
+      "pers_094",
+      "pers_049",
+      "pers_009"
+    ]
+  },
+  {
+    "variant_id": "sh3_b5_p2",
+    "persona_ids": [
+      "pers_073",
+      "pers_007",
+      "pers_043",
+      "pers_094",
+      "pers_085",
+      "pers_049",
+      "pers_014",
+      "pers_092",
+      "pers_037",
+      "pers_009",
+      "pers_003"
+    ]
+  },
+  {
+    "variant_id": "sh3_b6_p0",
+    "persona_ids": [
+      "pers_046",
+      "pers_083",
+      "pers_101",
+      "pers_091",
+      "pers_025",
+      "pers_016",
+      "pers_008",
+      "pers_098",
+      "pers_051",
+      "pers_012",
+      "pers_099"
+    ]
+  },
+  {
+    "variant_id": "sh3_b6_p1",
+    "persona_ids": [
+      "pers_046",
+      "pers_008",
+      "pers_091",
+      "pers_098",
+      "pers_083",
+      "pers_012",
+      "pers_101",
+      "pers_016",
+      "pers_099",
+      "pers_025",
+      "pers_051"
+    ]
+  },
+  {
+    "variant_id": "sh3_b6_p2",
+    "persona_ids": [
+      "pers_008",
+      "pers_025",
+      "pers_051",
+      "pers_098",
+      "pers_046",
+      "pers_012",
+      "pers_083",
+      "pers_016",
+      "pers_101",
+      "pers_091",
+      "pers_099"
+    ]
+  },
+  {
+    "variant_id": "sh3_b7_p0",
+    "persona_ids": [
+      "pers_097",
+      "pers_053",
+      "pers_036",
+      "pers_100",
+      "pers_028",
+      "pers_057",
+      "pers_082",
+      "pers_110",
+      "pers_105",
+      "pers_047",
+      "pers_079"
+    ]
+  },
+  {
+    "variant_id": "sh3_b7_p1",
+    "persona_ids": [
+      "pers_057",
+      "pers_100",
+      "pers_047",
+      "pers_036",
+      "pers_053",
+      "pers_082",
+      "pers_097",
+      "pers_110",
+      "pers_105",
+      "pers_028",
+      "pers_079"
+    ]
+  },
+  {
+    "variant_id": "sh3_b7_p2",
+    "persona_ids": [
+      "pers_079",
+      "pers_105",
+      "pers_053",
+      "pers_110",
+      "pers_097",
+      "pers_100",
+      "pers_082",
+      "pers_057",
+      "pers_047",
+      "pers_036",
+      "pers_028"
+    ]
+  },
+  {
+    "variant_id": "sh3_b8_p0",
+    "persona_ids": [
+      "pers_084",
+      "pers_070",
+      "pers_096",
+      "pers_063",
+      "pers_076",
+      "pers_020",
+      "pers_095",
+      "pers_054",
+      "pers_090",
+      "pers_086",
+      "pers_106"
+    ]
+  },
+  {
+    "variant_id": "sh3_b8_p1",
+    "persona_ids": [
+      "pers_106",
+      "pers_020",
+      "pers_086",
+      "pers_090",
+      "pers_054",
+      "pers_095",
+      "pers_063",
+      "pers_084",
+      "pers_070",
+      "pers_096",
+      "pers_076"
+    ]
+  },
+  {
+    "variant_id": "sh3_b8_p2",
+    "persona_ids": [
+      "pers_086",
+      "pers_096",
+      "pers_020",
+      "pers_106",
+      "pers_054",
+      "pers_070",
+      "pers_076",
+      "pers_095",
+      "pers_063",
+      "pers_084",
+      "pers_090"
+    ]
+  },
+  {
+    "variant_id": "sh3_b9_p0",
+    "persona_ids": [
+      "pers_018",
+      "pers_059",
+      "pers_064",
+      "pers_050",
+      "pers_048",
+      "pers_005",
+      "pers_015",
+      "pers_031",
+      "pers_039",
+      "pers_013",
+      "pers_069"
+    ]
+  },
+  {
+    "variant_id": "sh3_b9_p1",
+    "persona_ids": [
+      "pers_039",
+      "pers_048",
+      "pers_018",
+      "pers_005",
+      "pers_015",
+      "pers_031",
+      "pers_050",
+      "pers_069",
+      "pers_013",
+      "pers_064",
+      "pers_059"
+    ]
+  },
+  {
+    "variant_id": "sh3_b9_p2",
+    "persona_ids": [
+      "pers_015",
+      "pers_048",
+      "pers_005",
+      "pers_059",
+      "pers_018",
+      "pers_013",
+      "pers_064",
+      "pers_069",
+      "pers_031",
+      "pers_050",
+      "pers_039"
+    ]
+  },
+  {
+    "variant_id": "sh4_b0_p0",
+    "persona_ids": [
+      "pers_001",
+      "pers_002",
+      "pers_007",
+      "pers_062",
+      "pers_077",
+      "pers_045",
+      "pers_046",
+      "pers_036",
+      "pers_101",
+      "pers_105",
+      "pers_042"
+    ]
+  },
+  {
+    "variant_id": "sh4_b0_p1",
+    "persona_ids": [
+      "pers_045",
+      "pers_036",
+      "pers_046",
+      "pers_101",
+      "pers_105",
+      "pers_001",
+      "pers_042",
+      "pers_007",
+      "pers_077",
+      "pers_062",
+      "pers_002"
+    ]
+  },
+  {
+    "variant_id": "sh4_b0_p2",
+    "persona_ids": [
+      "pers_002",
+      "pers_001",
+      "pers_062",
+      "pers_101",
+      "pers_036",
+      "pers_007",
+      "pers_105",
+      "pers_046",
+      "pers_045",
+      "pers_077",
+      "pers_042"
+    ]
+  },
+  {
+    "variant_id": "sh4_b1_p0",
+    "persona_ids": [
+      "pers_078",
+      "pers_014",
+      "pers_041",
+      "pers_052",
+      "pers_080",
+      "pers_094",
+      "pers_076",
+      "pers_008",
+      "pers_026",
+      "pers_075",
+      "pers_050"
+    ]
+  },
+  {
+    "variant_id": "sh4_b1_p1",
+    "persona_ids": [
+      "pers_078",
+      "pers_014",
+      "pers_026",
+      "pers_050",
+      "pers_008",
+      "pers_094",
+      "pers_052",
+      "pers_076",
+      "pers_075",
+      "pers_080",
+      "pers_041"
+    ]
+  },
+  {
+    "variant_id": "sh4_b1_p2",
+    "persona_ids": [
+      "pers_080",
+      "pers_041",
+      "pers_094",
+      "pers_052",
+      "pers_026",
+      "pers_075",
+      "pers_050",
+      "pers_076",
+      "pers_008",
+      "pers_014",
+      "pers_078"
+    ]
+  },
+  {
+    "variant_id": "sh4_b2_p0",
+    "persona_ids": [
+      "pers_097",
+      "pers_039",
+      "pers_023",
+      "pers_032",
+      "pers_004",
+      "pers_098",
+      "pers_100",
+      "pers_067",
+      "pers_081",
+      "pers_059",
+      "pers_092"
+    ]
+  },
+  {
+    "variant_id": "sh4_b2_p1",
+    "persona_ids": [
+      "pers_081",
+      "pers_092",
+      "pers_098",
+      "pers_023",
+      "pers_039",
+      "pers_067",
+      "pers_097",
+      "pers_032",
+      "pers_004",
+      "pers_100",
+      "pers_059"
+    ]
+  },
+  {
+    "variant_id": "sh4_b2_p2",
+    "persona_ids": [
+      "pers_097",
+      "pers_039",
+      "pers_023",
+      "pers_059",
+      "pers_100",
+      "pers_067",
+      "pers_004",
+      "pers_092",
+      "pers_098",
+      "pers_081",
+      "pers_032"
+    ]
+  },
+  {
+    "variant_id": "sh4_b3_p0",
+    "persona_ids": [
+      "pers_011",
+      "pers_034",
+      "pers_054",
+      "pers_030",
+      "pers_009",
+      "pers_073",
+      "pers_056",
+      "pers_085",
+      "pers_033",
+      "pers_058",
+      "pers_027"
+    ]
+  },
+  {
+    "variant_id": "sh4_b3_p1",
+    "persona_ids": [
+      "pers_073",
+      "pers_085",
+      "pers_030",
+      "pers_058",
+      "pers_011",
+      "pers_056",
+      "pers_033",
+      "pers_009",
+      "pers_027",
+      "pers_034",
+      "pers_054"
+    ]
+  },
+  {
+    "variant_id": "sh4_b3_p2",
+    "persona_ids": [
+      "pers_054",
+      "pers_009",
+      "pers_073",
+      "pers_027",
+      "pers_058",
+      "pers_011",
+      "pers_030",
+      "pers_085",
+      "pers_056",
+      "pers_034",
+      "pers_033"
+    ]
+  },
+  {
+    "variant_id": "sh4_b4_p0",
+    "persona_ids": [
+      "pers_035",
+      "pers_051",
+      "pers_079",
+      "pers_060",
+      "pers_071",
+      "pers_037",
+      "pers_015",
+      "pers_031",
+      "pers_069",
+      "pers_061",
+      "pers_096"
+    ]
+  },
+  {
+    "variant_id": "sh4_b4_p1",
+    "persona_ids": [
+      "pers_051",
+      "pers_096",
+      "pers_037",
+      "pers_015",
+      "pers_060",
+      "pers_079",
+      "pers_071",
+      "pers_069",
+      "pers_061",
+      "pers_035",
+      "pers_031"
+    ]
+  },
+  {
+    "variant_id": "sh4_b4_p2",
+    "persona_ids": [
+      "pers_096",
+      "pers_051",
+      "pers_015",
+      "pers_069",
+      "pers_079",
+      "pers_071",
+      "pers_035",
+      "pers_037",
+      "pers_031",
+      "pers_061",
+      "pers_060"
+    ]
+  },
+  {
+    "variant_id": "sh4_b5_p0",
+    "persona_ids": [
+      "pers_016",
+      "pers_106",
+      "pers_084",
+      "pers_053",
+      "pers_064",
+      "pers_091",
+      "pers_109",
+      "pers_006",
+      "pers_074",
+      "pers_019",
+      "pers_048"
+    ]
+  },
+  {
+    "variant_id": "sh4_b5_p1",
+    "persona_ids": [
+      "pers_109",
+      "pers_084",
+      "pers_016",
+      "pers_006",
+      "pers_106",
+      "pers_064",
+      "pers_091",
+      "pers_074",
+      "pers_019",
+      "pers_048",
+      "pers_053"
+    ]
+  },
+  {
+    "variant_id": "sh4_b5_p2",
+    "persona_ids": [
+      "pers_084",
+      "pers_006",
+      "pers_106",
+      "pers_048",
+      "pers_109",
+      "pers_019",
+      "pers_074",
+      "pers_053",
+      "pers_064",
+      "pers_016",
+      "pers_091"
+    ]
+  },
+  {
+    "variant_id": "sh4_b6_p0",
+    "persona_ids": [
+      "pers_057",
+      "pers_082",
+      "pers_108",
+      "pers_070",
+      "pers_021",
+      "pers_099",
+      "pers_089",
+      "pers_022",
+      "pers_104",
+      "pers_005",
+      "pers_087"
+    ]
+  },
+  {
+    "variant_id": "sh4_b6_p1",
+    "persona_ids": [
+      "pers_108",
+      "pers_082",
+      "pers_070",
+      "pers_005",
+      "pers_099",
+      "pers_057",
+      "pers_104",
+      "pers_089",
+      "pers_022",
+      "pers_021",
+      "pers_087"
+    ]
+  },
+  {
+    "variant_id": "sh4_b6_p2",
+    "persona_ids": [
+      "pers_087",
+      "pers_021",
+      "pers_057",
+      "pers_005",
+      "pers_089",
+      "pers_104",
+      "pers_082",
+      "pers_070",
+      "pers_099",
+      "pers_108",
+      "pers_022"
+    ]
+  },
+  {
+    "variant_id": "sh4_b7_p0",
+    "persona_ids": [
+      "pers_038",
+      "pers_020",
+      "pers_065",
+      "pers_044",
+      "pers_028",
+      "pers_029",
+      "pers_025",
+      "pers_013",
+      "pers_010",
+      "pers_063",
+      "pers_018"
+    ]
+  },
+  {
+    "variant_id": "sh4_b7_p1",
+    "persona_ids": [
+      "pers_038",
+      "pers_028",
+      "pers_010",
+      "pers_065",
+      "pers_013",
+      "pers_020",
+      "pers_029",
+      "pers_025",
+      "pers_018",
+      "pers_044",
+      "pers_063"
+    ]
+  },
+  {
+    "variant_id": "sh4_b7_p2",
+    "persona_ids": [
+      "pers_038",
+      "pers_013",
+      "pers_018",
+      "pers_065",
+      "pers_020",
+      "pers_010",
+      "pers_044",
+      "pers_028",
+      "pers_063",
+      "pers_025",
+      "pers_029"
+    ]
+  },
+  {
+    "variant_id": "sh4_b8_p0",
+    "persona_ids": [
+      "pers_003",
+      "pers_024",
+      "pers_055",
+      "pers_012",
+      "pers_093",
+      "pers_047",
+      "pers_066",
+      "pers_107",
+      "pers_103",
+      "pers_110",
+      "pers_068"
+    ]
+  },
+  {
+    "variant_id": "sh4_b8_p1",
+    "persona_ids": [
+      "pers_068",
+      "pers_066",
+      "pers_003",
+      "pers_110",
+      "pers_047",
+      "pers_103",
+      "pers_012",
+      "pers_024",
+      "pers_107",
+      "pers_055",
+      "pers_093"
+    ]
+  },
+  {
+    "variant_id": "sh4_b8_p2",
+    "persona_ids": [
+      "pers_107",
+      "pers_110",
+      "pers_055",
+      "pers_103",
+      "pers_024",
+      "pers_068",
+      "pers_047",
+      "pers_012",
+      "pers_003",
+      "pers_066",
+      "pers_093"
+    ]
+  },
+  {
+    "variant_id": "sh4_b9_p0",
+    "persona_ids": [
+      "pers_040",
+      "pers_086",
+      "pers_088",
+      "pers_102",
+      "pers_083",
+      "pers_043",
+      "pers_072",
+      "pers_095",
+      "pers_049",
+      "pers_017",
+      "pers_090"
+    ]
+  },
+  {
+    "variant_id": "sh4_b9_p1",
+    "persona_ids": [
+      "pers_083",
+      "pers_102",
+      "pers_086",
+      "pers_090",
+      "pers_017",
+      "pers_043",
+      "pers_049",
+      "pers_095",
+      "pers_040",
+      "pers_088",
+      "pers_072"
+    ]
+  },
+  {
+    "variant_id": "sh4_b9_p2",
+    "persona_ids": [
+      "pers_086",
+      "pers_049",
+      "pers_095",
+      "pers_040",
+      "pers_090",
+      "pers_017",
+      "pers_043",
+      "pers_083",
+      "pers_088",
+      "pers_102",
+      "pers_072"
+    ]
+  },
+  {
+    "variant_id": "sh5_b0_p0",
+    "persona_ids": [
+      "pers_095",
+      "pers_011",
+      "pers_105",
+      "pers_037",
+      "pers_049",
+      "pers_103",
+      "pers_051",
+      "pers_005",
+      "pers_102",
+      "pers_086",
+      "pers_065"
+    ]
+  },
+  {
+    "variant_id": "sh5_b0_p1",
+    "persona_ids": [
+      "pers_065",
+      "pers_095",
+      "pers_051",
+      "pers_011",
+      "pers_037",
+      "pers_049",
+      "pers_103",
+      "pers_102",
+      "pers_086",
+      "pers_105",
+      "pers_005"
+    ]
+  },
+  {
+    "variant_id": "sh5_b0_p2",
+    "persona_ids": [
+      "pers_086",
+      "pers_095",
+      "pers_005",
+      "pers_103",
+      "pers_011",
+      "pers_051",
+      "pers_102",
+      "pers_065",
+      "pers_037",
+      "pers_049",
+      "pers_105"
+    ]
+  },
+  {
+    "variant_id": "sh5_b1_p0",
+    "persona_ids": [
+      "pers_022",
+      "pers_053",
+      "pers_029",
+      "pers_071",
+      "pers_090",
+      "pers_040",
+      "pers_036",
+      "pers_047",
+      "pers_015",
+      "pers_056",
+      "pers_003"
+    ]
+  },
+  {
+    "variant_id": "sh5_b1_p1",
+    "persona_ids": [
+      "pers_047",
+      "pers_022",
+      "pers_040",
+      "pers_056",
+      "pers_003",
+      "pers_036",
+      "pers_071",
+      "pers_090",
+      "pers_029",
+      "pers_015",
+      "pers_053"
+    ]
+  },
+  {
+    "variant_id": "sh5_b1_p2",
+    "persona_ids": [
+      "pers_053",
+      "pers_029",
+      "pers_047",
+      "pers_040",
+      "pers_090",
+      "pers_071",
+      "pers_003",
+      "pers_036",
+      "pers_015",
+      "pers_056",
+      "pers_022"
+    ]
+  },
+  {
+    "variant_id": "sh5_b2_p0",
+    "persona_ids": [
+      "pers_067",
+      "pers_055",
+      "pers_096",
+      "pers_043",
+      "pers_075",
+      "pers_034",
+      "pers_018",
+      "pers_085",
+      "pers_081",
+      "pers_012",
+      "pers_109"
+    ]
+  },
+  {
+    "variant_id": "sh5_b2_p1",
+    "persona_ids": [
+      "pers_096",
+      "pers_018",
+      "pers_109",
+      "pers_085",
+      "pers_012",
+      "pers_043",
+      "pers_055",
+      "pers_034",
+      "pers_067",
+      "pers_081",
+      "pers_075"
+    ]
+  },
+  {
+    "variant_id": "sh5_b2_p2",
+    "persona_ids": [
+      "pers_109",
+      "pers_067",
+      "pers_034",
+      "pers_075",
+      "pers_096",
+      "pers_043",
+      "pers_012",
+      "pers_085",
+      "pers_055",
+      "pers_081",
+      "pers_018"
+    ]
+  },
+  {
+    "variant_id": "sh5_b3_p0",
+    "persona_ids": [
+      "pers_079",
+      "pers_009",
+      "pers_108",
+      "pers_028",
+      "pers_106",
+      "pers_046",
+      "pers_024",
+      "pers_068",
+      "pers_074",
+      "pers_082",
+      "pers_001"
+    ]
+  },
+  {
+    "variant_id": "sh5_b3_p1",
+    "persona_ids": [
+      "pers_079",
+      "pers_108",
+      "pers_046",
+      "pers_028",
+      "pers_106",
+      "pers_082",
+      "pers_001",
+      "pers_068",
+      "pers_024",
+      "pers_074",
+      "pers_009"
+    ]
+  },
+  {
+    "variant_id": "sh5_b3_p2",
+    "persona_ids": [
+      "pers_082",
+      "pers_079",
+      "pers_024",
+      "pers_108",
+      "pers_009",
+      "pers_001",
+      "pers_106",
+      "pers_074",
+      "pers_068",
+      "pers_028",
+      "pers_046"
+    ]
+  },
+  {
+    "variant_id": "sh5_b4_p0",
+    "persona_ids": [
+      "pers_080",
+      "pers_087",
+      "pers_084",
+      "pers_023",
+      "pers_063",
+      "pers_076",
+      "pers_073",
+      "pers_026",
+      "pers_098",
+      "pers_094",
+      "pers_004"
+    ]
+  },
+  {
+    "variant_id": "sh5_b4_p1",
+    "persona_ids": [
+      "pers_098",
+      "pers_026",
+      "pers_073",
+      "pers_084",
+      "pers_004",
+      "pers_063",
+      "pers_023",
+      "pers_094",
+      "pers_087",
+      "pers_076",
+      "pers_080"
+    ]
+  },
+  {
+    "variant_id": "sh5_b4_p2",
+    "persona_ids": [
+      "pers_004",
+      "pers_063",
+      "pers_087",
+      "pers_076",
+      "pers_098",
+      "pers_080",
+      "pers_084",
+      "pers_094",
+      "pers_026",
+      "pers_073",
+      "pers_023"
+    ]
+  },
+  {
+    "variant_id": "sh5_b5_p0",
+    "persona_ids": [
+      "pers_033",
+      "pers_100",
+      "pers_064",
+      "pers_002",
+      "pers_070",
+      "pers_020",
+      "pers_069",
+      "pers_006",
+      "pers_025",
+      "pers_030",
+      "pers_061"
+    ]
+  },
+  {
+    "variant_id": "sh5_b5_p1",
+    "persona_ids": [
+      "pers_070",
+      "pers_033",
+      "pers_069",
+      "pers_064",
+      "pers_020",
+      "pers_030",
+      "pers_061",
+      "pers_002",
+      "pers_100",
+      "pers_025",
+      "pers_006"
+    ]
+  },
+  {
+    "variant_id": "sh5_b5_p2",
+    "persona_ids": [
+      "pers_030",
+      "pers_006",
+      "pers_025",
+      "pers_061",
+      "pers_069",
+      "pers_033",
+      "pers_064",
+      "pers_070",
+      "pers_002",
+      "pers_020",
+      "pers_100"
+    ]
+  },
+  {
+    "variant_id": "sh5_b6_p0",
+    "persona_ids": [
+      "pers_032",
+      "pers_038",
+      "pers_101",
+      "pers_093",
+      "pers_007",
+      "pers_013",
+      "pers_042",
+      "pers_077",
+      "pers_099",
+      "pers_050",
+      "pers_083"
+    ]
+  },
+  {
+    "variant_id": "sh5_b6_p1",
+    "persona_ids": [
+      "pers_099",
+      "pers_050",
+      "pers_083",
+      "pers_093",
+      "pers_007",
+      "pers_077",
+      "pers_013",
+      "pers_101",
+      "pers_032",
+      "pers_038",
+      "pers_042"
+    ]
+  },
+  {
+    "variant_id": "sh5_b6_p2",
+    "persona_ids": [
+      "pers_093",
+      "pers_050",
+      "pers_042",
+      "pers_083",
+      "pers_013",
+      "pers_032",
+      "pers_101",
+      "pers_099",
+      "pers_007",
+      "pers_077",
+      "pers_038"
+    ]
+  },
+  {
+    "variant_id": "sh5_b7_p0",
+    "persona_ids": [
+      "pers_091",
+      "pers_048",
+      "pers_031",
+      "pers_014",
+      "pers_017",
+      "pers_066",
+      "pers_016",
+      "pers_072",
+      "pers_035",
+      "pers_058",
+      "pers_097"
+    ]
+  },
+  {
+    "variant_id": "sh5_b7_p1",
+    "persona_ids": [
+      "pers_058",
+      "pers_016",
+      "pers_048",
+      "pers_066",
+      "pers_072",
+      "pers_014",
+      "pers_035",
+      "pers_097",
+      "pers_091",
+      "pers_031",
+      "pers_017"
+    ]
+  },
+  {
+    "variant_id": "sh5_b7_p2",
+    "persona_ids": [
+      "pers_048",
+      "pers_091",
+      "pers_016",
+      "pers_058",
+      "pers_031",
+      "pers_035",
+      "pers_017",
+      "pers_097",
+      "pers_072",
+      "pers_066",
+      "pers_014"
+    ]
+  },
+  {
+    "variant_id": "sh5_b8_p0",
+    "persona_ids": [
+      "pers_041",
+      "pers_044",
+      "pers_092",
+      "pers_027",
+      "pers_062",
+      "pers_019",
+      "pers_107",
+      "pers_054",
+      "pers_045",
+      "pers_078",
+      "pers_060"
+    ]
+  },
+  {
+    "variant_id": "sh5_b8_p1",
+    "persona_ids": [
+      "pers_054",
+      "pers_019",
+      "pers_044",
+      "pers_041",
+      "pers_045",
+      "pers_062",
+      "pers_107",
+      "pers_027",
+      "pers_060",
+      "pers_078",
+      "pers_092"
+    ]
+  },
+  {
+    "variant_id": "sh5_b8_p2",
+    "persona_ids": [
+      "pers_078",
+      "pers_045",
+      "pers_060",
+      "pers_062",
+      "pers_054",
+      "pers_019",
+      "pers_041",
+      "pers_044",
+      "pers_092",
+      "pers_027",
+      "pers_107"
+    ]
+  },
+  {
+    "variant_id": "sh5_b9_p0",
+    "persona_ids": [
+      "pers_008",
+      "pers_110",
+      "pers_089",
+      "pers_052",
+      "pers_088",
+      "pers_021",
+      "pers_059",
+      "pers_104",
+      "pers_010",
+      "pers_039",
+      "pers_057"
+    ]
+  },
+  {
+    "variant_id": "sh5_b9_p1",
+    "persona_ids": [
+      "pers_104",
+      "pers_010",
+      "pers_110",
+      "pers_008",
+      "pers_039",
+      "pers_089",
+      "pers_052",
+      "pers_057",
+      "pers_088",
+      "pers_021",
+      "pers_059"
+    ]
+  },
+  {
+    "variant_id": "sh5_b9_p2",
+    "persona_ids": [
+      "pers_021",
+      "pers_010",
+      "pers_104",
+      "pers_057",
+      "pers_088",
+      "pers_052",
+      "pers_089",
+      "pers_110",
+      "pers_059",
+      "pers_039",
+      "pers_008"
+    ]
+  },
+  {
+    "variant_id": "sh6_b0_p0",
+    "persona_ids": [
+      "pers_080",
+      "pers_101",
+      "pers_077",
+      "pers_046",
+      "pers_071",
+      "pers_066",
+      "pers_072",
+      "pers_022",
+      "pers_086",
+      "pers_002",
+      "pers_078"
+    ]
+  },
+  {
+    "variant_id": "sh6_b0_p1",
+    "persona_ids": [
+      "pers_046",
+      "pers_077",
+      "pers_071",
+      "pers_072",
+      "pers_002",
+      "pers_066",
+      "pers_086",
+      "pers_078",
+      "pers_022",
+      "pers_080",
+      "pers_101"
+    ]
+  },
+  {
+    "variant_id": "sh6_b0_p2",
+    "persona_ids": [
+      "pers_072",
+      "pers_046",
+      "pers_002",
+      "pers_066",
+      "pers_077",
+      "pers_071",
+      "pers_101",
+      "pers_080",
+      "pers_022",
+      "pers_078",
+      "pers_086"
+    ]
+  },
+  {
+    "variant_id": "sh6_b1_p0",
+    "persona_ids": [
+      "pers_042",
+      "pers_063",
+      "pers_100",
+      "pers_092",
+      "pers_091",
+      "pers_061",
+      "pers_105",
+      "pers_035",
+      "pers_024",
+      "pers_095",
+      "pers_064"
+    ]
+  },
+  {
+    "variant_id": "sh6_b1_p1",
+    "persona_ids": [
+      "pers_091",
+      "pers_035",
+      "pers_061",
+      "pers_100",
+      "pers_063",
+      "pers_095",
+      "pers_105",
+      "pers_042",
+      "pers_092",
+      "pers_024",
+      "pers_064"
+    ]
+  },
+  {
+    "variant_id": "sh6_b1_p2",
+    "persona_ids": [
+      "pers_092",
+      "pers_042",
+      "pers_091",
+      "pers_064",
+      "pers_024",
+      "pers_100",
+      "pers_105",
+      "pers_061",
+      "pers_095",
+      "pers_035",
+      "pers_063"
+    ]
+  },
+  {
+    "variant_id": "sh6_b2_p0",
+    "persona_ids": [
+      "pers_011",
+      "pers_048",
+      "pers_074",
+      "pers_014",
+      "pers_026",
+      "pers_107",
+      "pers_073",
+      "pers_062",
+      "pers_103",
+      "pers_104",
+      "pers_083"
+    ]
+  },
+  {
+    "variant_id": "sh6_b2_p1",
+    "persona_ids": [
+      "pers_011",
+      "pers_083",
+      "pers_104",
+      "pers_062",
+      "pers_074",
+      "pers_014",
+      "pers_048",
+      "pers_103",
+      "pers_026",
+      "pers_107",
+      "pers_073"
+    ]
+  },
+  {
+    "variant_id": "sh6_b2_p2",
+    "persona_ids": [
+      "pers_026",
+      "pers_014",
+      "pers_103",
+      "pers_083",
+      "pers_048",
+      "pers_062",
+      "pers_107",
+      "pers_104",
+      "pers_073",
+      "pers_011",
+      "pers_074"
+    ]
+  },
+  {
+    "variant_id": "sh6_b3_p0",
+    "persona_ids": [
+      "pers_102",
+      "pers_040",
+      "pers_076",
+      "pers_065",
+      "pers_012",
+      "pers_110",
+      "pers_090",
+      "pers_018",
+      "pers_004",
+      "pers_041",
+      "pers_038"
+    ]
+  },
+  {
+    "variant_id": "sh6_b3_p1",
+    "persona_ids": [
+      "pers_038",
+      "pers_040",
+      "pers_110",
+      "pers_102",
+      "pers_065",
+      "pers_004",
+      "pers_041",
+      "pers_090",
+      "pers_076",
+      "pers_012",
+      "pers_018"
+    ]
+  },
+  {
+    "variant_id": "sh6_b3_p2",
+    "persona_ids": [
+      "pers_041",
+      "pers_004",
+      "pers_102",
+      "pers_038",
+      "pers_090",
+      "pers_110",
+      "pers_012",
+      "pers_076",
+      "pers_065",
+      "pers_040",
+      "pers_018"
+    ]
+  },
+  {
+    "variant_id": "sh6_b4_p0",
+    "persona_ids": [
+      "pers_050",
+      "pers_096",
+      "pers_010",
+      "pers_043",
+      "pers_099",
+      "pers_067",
+      "pers_085",
+      "pers_044",
+      "pers_056",
+      "pers_108",
+      "pers_034"
+    ]
+  },
+  {
+    "variant_id": "sh6_b4_p1",
+    "persona_ids": [
+      "pers_050",
+      "pers_043",
+      "pers_099",
+      "pers_108",
+      "pers_085",
+      "pers_044",
+      "pers_010",
+      "pers_056",
+      "pers_034",
+      "pers_096",
+      "pers_067"
+    ]
+  },
+  {
+    "variant_id": "sh6_b4_p2",
+    "persona_ids": [
+      "pers_099",
+      "pers_010",
+      "pers_050",
+      "pers_096",
+      "pers_085",
+      "pers_067",
+      "pers_108",
+      "pers_056",
+      "pers_044",
+      "pers_034",
+      "pers_043"
+    ]
+  },
+  {
+    "variant_id": "sh6_b5_p0",
+    "persona_ids": [
+      "pers_008",
+      "pers_037",
+      "pers_028",
+      "pers_019",
+      "pers_047",
+      "pers_033",
+      "pers_021",
+      "pers_082",
+      "pers_075",
+      "pers_089",
+      "pers_053"
+    ]
+  },
+  {
+    "variant_id": "sh6_b5_p1",
+    "persona_ids": [
+      "pers_075",
+      "pers_028",
+      "pers_019",
+      "pers_082",
+      "pers_037",
+      "pers_008",
+      "pers_089",
+      "pers_033",
+      "pers_047",
+      "pers_053",
+      "pers_021"
+    ]
+  },
+  {
+    "variant_id": "sh6_b5_p2",
+    "persona_ids": [
+      "pers_053",
+      "pers_082",
+      "pers_047",
+      "pers_021",
+      "pers_037",
+      "pers_028",
+      "pers_075",
+      "pers_033",
+      "pers_019",
+      "pers_008",
+      "pers_089"
+    ]
+  },
+  {
+    "variant_id": "sh6_b6_p0",
+    "persona_ids": [
+      "pers_007",
+      "pers_058",
+      "pers_027",
+      "pers_013",
+      "pers_006",
+      "pers_031",
+      "pers_009",
+      "pers_088",
+      "pers_081",
+      "pers_052",
+      "pers_057"
+    ]
+  },
+  {
+    "variant_id": "sh6_b6_p1",
+    "persona_ids": [
+      "pers_058",
+      "pers_057",
+      "pers_081",
+      "pers_088",
+      "pers_027",
+      "pers_006",
+      "pers_052",
+      "pers_009",
+      "pers_013",
+      "pers_007",
+      "pers_031"
+    ]
+  },
+  {
+    "variant_id": "sh6_b6_p2",
+    "persona_ids": [
+      "pers_088",
+      "pers_057",
+      "pers_058",
+      "pers_013",
+      "pers_006",
+      "pers_007",
+      "pers_009",
+      "pers_052",
+      "pers_081",
+      "pers_027",
+      "pers_031"
+    ]
+  },
+  {
+    "variant_id": "sh6_b7_p0",
+    "persona_ids": [
+      "pers_098",
+      "pers_109",
+      "pers_059",
+      "pers_005",
+      "pers_032",
+      "pers_020",
+      "pers_025",
+      "pers_036",
+      "pers_054",
+      "pers_015",
+      "pers_079"
+    ]
+  },
+  {
+    "variant_id": "sh6_b7_p1",
+    "persona_ids": [
+      "pers_059",
+      "pers_020",
+      "pers_036",
+      "pers_109",
+      "pers_025",
+      "pers_054",
+      "pers_005",
+      "pers_015",
+      "pers_098",
+      "pers_032",
+      "pers_079"
+    ]
+  },
+  {
+    "variant_id": "sh6_b7_p2",
+    "persona_ids": [
+      "pers_079",
+      "pers_015",
+      "pers_005",
+      "pers_032",
+      "pers_025",
+      "pers_109",
+      "pers_098",
+      "pers_059",
+      "pers_020",
+      "pers_036",
+      "pers_054"
+    ]
+  },
+  {
+    "variant_id": "sh6_b8_p0",
+    "persona_ids": [
+      "pers_049",
+      "pers_039",
+      "pers_060",
+      "pers_070",
+      "pers_055",
+      "pers_106",
+      "pers_030",
+      "pers_087",
+      "pers_093",
+      "pers_097",
+      "pers_003"
+    ]
+  },
+  {
+    "variant_id": "sh6_b8_p1",
+    "persona_ids": [
+      "pers_030",
+      "pers_055",
+      "pers_093",
+      "pers_070",
+      "pers_097",
+      "pers_060",
+      "pers_049",
+      "pers_087",
+      "pers_106",
+      "pers_039",
+      "pers_003"
+    ]
+  },
+  {
+    "variant_id": "sh6_b8_p2",
+    "persona_ids": [
+      "pers_070",
+      "pers_003",
+      "pers_030",
+      "pers_093",
+      "pers_060",
+      "pers_055",
+      "pers_039",
+      "pers_087",
+      "pers_097",
+      "pers_049",
+      "pers_106"
+    ]
+  },
+  {
+    "variant_id": "sh6_b9_p0",
+    "persona_ids": [
+      "pers_069",
+      "pers_084",
+      "pers_051",
+      "pers_094",
+      "pers_029",
+      "pers_001",
+      "pers_016",
+      "pers_045",
+      "pers_023",
+      "pers_017",
+      "pers_068"
+    ]
+  },
+  {
+    "variant_id": "sh6_b9_p1",
+    "persona_ids": [
+      "pers_001",
+      "pers_023",
+      "pers_068",
+      "pers_029",
+      "pers_016",
+      "pers_094",
+      "pers_017",
+      "pers_084",
+      "pers_069",
+      "pers_045",
+      "pers_051"
+    ]
+  },
+  {
+    "variant_id": "sh6_b9_p2",
+    "persona_ids": [
+      "pers_001",
+      "pers_069",
+      "pers_016",
+      "pers_068",
+      "pers_094",
+      "pers_084",
+      "pers_029",
+      "pers_051",
+      "pers_023",
+      "pers_017",
+      "pers_045"
+    ]
+  },
+  {
+    "variant_id": "sh7_b0_p0",
+    "persona_ids": [
+      "pers_097",
+      "pers_090",
+      "pers_086",
+      "pers_100",
+      "pers_025",
+      "pers_041",
+      "pers_019",
+      "pers_006",
+      "pers_021",
+      "pers_087",
+      "pers_013"
+    ]
+  },
+  {
+    "variant_id": "sh7_b0_p1",
+    "persona_ids": [
+      "pers_086",
+      "pers_100",
+      "pers_025",
+      "pers_041",
+      "pers_019",
+      "pers_090",
+      "pers_021",
+      "pers_013",
+      "pers_006",
+      "pers_087",
+      "pers_097"
+    ]
+  },
+  {
+    "variant_id": "sh7_b0_p2",
+    "persona_ids": [
+      "pers_041",
+      "pers_025",
+      "pers_013",
+      "pers_019",
+      "pers_006",
+      "pers_086",
+      "pers_087",
+      "pers_100",
+      "pers_021",
+      "pers_090",
+      "pers_097"
+    ]
+  },
+  {
+    "variant_id": "sh7_b1_p0",
+    "persona_ids": [
+      "pers_068",
+      "pers_079",
+      "pers_035",
+      "pers_063",
+      "pers_061",
+      "pers_094",
+      "pers_084",
+      "pers_048",
+      "pers_008",
+      "pers_083",
+      "pers_081"
+    ]
+  },
+  {
+    "variant_id": "sh7_b1_p1",
+    "persona_ids": [
+      "pers_084",
+      "pers_048",
+      "pers_083",
+      "pers_061",
+      "pers_035",
+      "pers_008",
+      "pers_094",
+      "pers_081",
+      "pers_079",
+      "pers_068",
+      "pers_063"
+    ]
+  },
+  {
+    "variant_id": "sh7_b1_p2",
+    "persona_ids": [
+      "pers_035",
+      "pers_008",
+      "pers_081",
+      "pers_068",
+      "pers_061",
+      "pers_084",
+      "pers_048",
+      "pers_094",
+      "pers_079",
+      "pers_083",
+      "pers_063"
+    ]
+  },
+  {
+    "variant_id": "sh7_b2_p0",
+    "persona_ids": [
+      "pers_002",
+      "pers_012",
+      "pers_023",
+      "pers_093",
+      "pers_072",
+      "pers_092",
+      "pers_043",
+      "pers_089",
+      "pers_016",
+      "pers_056",
+      "pers_066"
+    ]
+  },
+  {
+    "variant_id": "sh7_b2_p1",
+    "persona_ids": [
+      "pers_012",
+      "pers_066",
+      "pers_089",
+      "pers_092",
+      "pers_072",
+      "pers_023",
+      "pers_043",
+      "pers_002",
+      "pers_056",
+      "pers_016",
+      "pers_093"
+    ]
+  },
+  {
+    "variant_id": "sh7_b2_p2",
+    "persona_ids": [
+      "pers_093",
+      "pers_092",
+      "pers_056",
+      "pers_089",
+      "pers_016",
+      "pers_072",
+      "pers_043",
+      "pers_023",
+      "pers_066",
+      "pers_012",
+      "pers_002"
+    ]
+  },
+  {
+    "variant_id": "sh7_b3_p0",
+    "persona_ids": [
+      "pers_030",
+      "pers_029",
+      "pers_095",
+      "pers_096",
+      "pers_098",
+      "pers_045",
+      "pers_078",
+      "pers_105",
+      "pers_034",
+      "pers_059",
+      "pers_085"
+    ]
+  },
+  {
+    "variant_id": "sh7_b3_p1",
+    "persona_ids": [
+      "pers_085",
+      "pers_034",
+      "pers_030",
+      "pers_029",
+      "pers_059",
+      "pers_095",
+      "pers_045",
+      "pers_105",
+      "pers_078",
+      "pers_096",
+      "pers_098"
+    ]
+  },
+  {
+    "variant_id": "sh7_b3_p2",
+    "persona_ids": [
+      "pers_030",
+      "pers_059",
+      "pers_085",
+      "pers_034",
+      "pers_078",
+      "pers_098",
+      "pers_095",
+      "pers_029",
+      "pers_096",
+      "pers_045",
+      "pers_105"
+    ]
+  },
+  {
+    "variant_id": "sh7_b4_p0",
+    "persona_ids": [
+      "pers_022",
+      "pers_028",
+      "pers_104",
+      "pers_103",
+      "pers_007",
+      "pers_017",
+      "pers_077",
+      "pers_080",
+      "pers_001",
+      "pers_050",
+      "pers_099"
+    ]
+  },
+  {
+    "variant_id": "sh7_b4_p1",
+    "persona_ids": [
+      "pers_077",
+      "pers_017",
+      "pers_080",
+      "pers_022",
+      "pers_103",
+      "pers_001",
+      "pers_104",
+      "pers_028",
+      "pers_007",
+      "pers_099",
+      "pers_050"
+    ]
+  },
+  {
+    "variant_id": "sh7_b4_p2",
+    "persona_ids": [
+      "pers_080",
+      "pers_099",
+      "pers_050",
+      "pers_017",
+      "pers_104",
+      "pers_028",
+      "pers_103",
+      "pers_001",
+      "pers_022",
+      "pers_007",
+      "pers_077"
+    ]
+  },
+  {
+    "variant_id": "sh7_b5_p0",
+    "persona_ids": [
+      "pers_107",
+      "pers_046",
+      "pers_040",
+      "pers_110",
+      "pers_075",
+      "pers_037",
+      "pers_067",
+      "pers_044",
+      "pers_014",
+      "pers_108",
+      "pers_003"
+    ]
+  },
+  {
+    "variant_id": "sh7_b5_p1",
+    "persona_ids": [
+      "pers_046",
+      "pers_067",
+      "pers_075",
+      "pers_003",
+      "pers_108",
+      "pers_044",
+      "pers_107",
+      "pers_040",
+      "pers_014",
+      "pers_037",
+      "pers_110"
+    ]
+  },
+  {
+    "variant_id": "sh7_b5_p2",
+    "persona_ids": [
+      "pers_003",
+      "pers_044",
+      "pers_110",
+      "pers_037",
+      "pers_046",
+      "pers_040",
+      "pers_075",
+      "pers_067",
+      "pers_108",
+      "pers_107",
+      "pers_014"
+    ]
+  },
+  {
+    "variant_id": "sh7_b6_p0",
+    "persona_ids": [
+      "pers_052",
+      "pers_102",
+      "pers_005",
+      "pers_054",
+      "pers_058",
+      "pers_011",
+      "pers_065",
+      "pers_106",
+      "pers_010",
+      "pers_062",
+      "pers_069"
+    ]
+  },
+  {
+    "variant_id": "sh7_b6_p1",
+    "persona_ids": [
+      "pers_011",
+      "pers_065",
+      "pers_069",
+      "pers_005",
+      "pers_010",
+      "pers_106",
+      "pers_062",
+      "pers_054",
+      "pers_052",
+      "pers_058",
+      "pers_102"
+    ]
+  },
+  {
+    "variant_id": "sh7_b6_p2",
+    "persona_ids": [
+      "pers_106",
+      "pers_102",
+      "pers_054",
+      "pers_065",
+      "pers_011",
+      "pers_010",
+      "pers_052",
+      "pers_062",
+      "pers_005",
+      "pers_058",
+      "pers_069"
+    ]
+  },
+  {
+    "variant_id": "sh7_b7_p0",
+    "persona_ids": [
+      "pers_039",
+      "pers_082",
+      "pers_053",
+      "pers_009",
+      "pers_018",
+      "pers_038",
+      "pers_031",
+      "pers_064",
+      "pers_033",
+      "pers_020",
+      "pers_055"
+    ]
+  },
+  {
+    "variant_id": "sh7_b7_p1",
+    "persona_ids": [
+      "pers_031",
+      "pers_020",
+      "pers_018",
+      "pers_064",
+      "pers_053",
+      "pers_082",
+      "pers_055",
+      "pers_009",
+      "pers_033",
+      "pers_039",
+      "pers_038"
+    ]
+  },
+  {
+    "variant_id": "sh7_b7_p2",
+    "persona_ids": [
+      "pers_039",
+      "pers_053",
+      "pers_064",
+      "pers_031",
+      "pers_020",
+      "pers_009",
+      "pers_082",
+      "pers_018",
+      "pers_055",
+      "pers_033",
+      "pers_038"
+    ]
+  },
+  {
+    "variant_id": "sh7_b8_p0",
+    "persona_ids": [
+      "pers_088",
+      "pers_070",
+      "pers_091",
+      "pers_071",
+      "pers_004",
+      "pers_026",
+      "pers_076",
+      "pers_024",
+      "pers_060",
+      "pers_057",
+      "pers_027"
+    ]
+  },
+  {
+    "variant_id": "sh7_b8_p1",
+    "persona_ids": [
+      "pers_004",
+      "pers_091",
+      "pers_076",
+      "pers_070",
+      "pers_024",
+      "pers_060",
+      "pers_088",
+      "pers_027",
+      "pers_071",
+      "pers_026",
+      "pers_057"
+    ]
+  },
+  {
+    "variant_id": "sh7_b8_p2",
+    "persona_ids": [
+      "pers_004",
+      "pers_057",
+      "pers_060",
+      "pers_024",
+      "pers_071",
+      "pers_026",
+      "pers_091",
+      "pers_070",
+      "pers_076",
+      "pers_027",
+      "pers_088"
+    ]
+  },
+  {
+    "variant_id": "sh7_b9_p0",
+    "persona_ids": [
+      "pers_101",
+      "pers_042",
+      "pers_049",
+      "pers_051",
+      "pers_032",
+      "pers_036",
+      "pers_109",
+      "pers_073",
+      "pers_015",
+      "pers_047",
+      "pers_074"
+    ]
+  },
+  {
+    "variant_id": "sh7_b9_p1",
+    "persona_ids": [
+      "pers_036",
+      "pers_101",
+      "pers_051",
+      "pers_109",
+      "pers_073",
+      "pers_015",
+      "pers_032",
+      "pers_042",
+      "pers_049",
+      "pers_047",
+      "pers_074"
+    ]
+  },
+  {
+    "variant_id": "sh7_b9_p2",
+    "persona_ids": [
+      "pers_109",
+      "pers_073",
+      "pers_051",
+      "pers_042",
+      "pers_032",
+      "pers_015",
+      "pers_047",
+      "pers_074",
+      "pers_036",
+      "pers_049",
+      "pers_101"
+    ]
+  },
+  {
+    "variant_id": "sh8_b0_p0",
+    "persona_ids": [
+      "pers_084",
+      "pers_076",
+      "pers_013",
+      "pers_094",
+      "pers_016",
+      "pers_056",
+      "pers_110",
+      "pers_090",
+      "pers_095",
+      "pers_011",
+      "pers_074"
+    ]
+  },
+  {
+    "variant_id": "sh8_b0_p1",
+    "persona_ids": [
+      "pers_016",
+      "pers_110",
+      "pers_013",
+      "pers_011",
+      "pers_074",
+      "pers_056",
+      "pers_095",
+      "pers_090",
+      "pers_094",
+      "pers_084",
+      "pers_076"
+    ]
+  },
+  {
+    "variant_id": "sh8_b0_p2",
+    "persona_ids": [
+      "pers_094",
+      "pers_016",
+      "pers_076",
+      "pers_110",
+      "pers_095",
+      "pers_084",
+      "pers_090",
+      "pers_056",
+      "pers_013",
+      "pers_011",
+      "pers_074"
+    ]
+  },
+  {
+    "variant_id": "sh8_b1_p0",
+    "persona_ids": [
+      "pers_012",
+      "pers_099",
+      "pers_022",
+      "pers_001",
+      "pers_069",
+      "pers_086",
+      "pers_052",
+      "pers_103",
+      "pers_092",
+      "pers_104",
+      "pers_030"
+    ]
+  },
+  {
+    "variant_id": "sh8_b1_p1",
+    "persona_ids": [
+      "pers_052",
+      "pers_069",
+      "pers_099",
+      "pers_012",
+      "pers_104",
+      "pers_030",
+      "pers_086",
+      "pers_022",
+      "pers_092",
+      "pers_103",
+      "pers_001"
+    ]
+  },
+  {
+    "variant_id": "sh8_b1_p2",
+    "persona_ids": [
+      "pers_092",
+      "pers_022",
+      "pers_052",
+      "pers_069",
+      "pers_103",
+      "pers_104",
+      "pers_086",
+      "pers_030",
+      "pers_099",
+      "pers_001",
+      "pers_012"
+    ]
+  },
+  {
+    "variant_id": "sh8_b2_p0",
+    "persona_ids": [
+      "pers_024",
+      "pers_005",
+      "pers_065",
+      "pers_008",
+      "pers_036",
+      "pers_048",
+      "pers_059",
+      "pers_029",
+      "pers_109",
+      "pers_044",
+      "pers_062"
+    ]
+  },
+  {
+    "variant_id": "sh8_b2_p1",
+    "persona_ids": [
+      "pers_059",
+      "pers_044",
+      "pers_029",
+      "pers_036",
+      "pers_062",
+      "pers_008",
+      "pers_005",
+      "pers_065",
+      "pers_048",
+      "pers_024",
+      "pers_109"
+    ]
+  },
+  {
+    "variant_id": "sh8_b2_p2",
+    "persona_ids": [
+      "pers_005",
+      "pers_062",
+      "pers_008",
+      "pers_059",
+      "pers_048",
+      "pers_036",
+      "pers_109",
+      "pers_024",
+      "pers_044",
+      "pers_065",
+      "pers_029"
+    ]
+  },
+  {
+    "variant_id": "sh8_b3_p0",
+    "persona_ids": [
+      "pers_049",
+      "pers_020",
+      "pers_063",
+      "pers_040",
+      "pers_021",
+      "pers_072",
+      "pers_018",
+      "pers_080",
+      "pers_053",
+      "pers_042",
+      "pers_043"
+    ]
+  },
+  {
+    "variant_id": "sh8_b3_p1",
+    "persona_ids": [
+      "pers_049",
+      "pers_043",
+      "pers_018",
+      "pers_040",
+      "pers_080",
+      "pers_063",
+      "pers_020",
+      "pers_072",
+      "pers_053",
+      "pers_021",
+      "pers_042"
+    ]
+  },
+  {
+    "variant_id": "sh8_b3_p2",
+    "persona_ids": [
+      "pers_018",
+      "pers_020",
+      "pers_040",
+      "pers_053",
+      "pers_021",
+      "pers_049",
+      "pers_043",
+      "pers_042",
+      "pers_072",
+      "pers_063",
+      "pers_080"
+    ]
+  },
+  {
+    "variant_id": "sh8_b4_p0",
+    "persona_ids": [
+      "pers_035",
+      "pers_075",
+      "pers_055",
+      "pers_057",
+      "pers_006",
+      "pers_091",
+      "pers_098",
+      "pers_028",
+      "pers_046",
+      "pers_045",
+      "pers_058"
+    ]
+  },
+  {
+    "variant_id": "sh8_b4_p1",
+    "persona_ids": [
+      "pers_057",
+      "pers_075",
+      "pers_028",
+      "pers_046",
+      "pers_035",
+      "pers_045",
+      "pers_098",
+      "pers_006",
+      "pers_091",
+      "pers_055",
+      "pers_058"
+    ]
+  },
+  {
+    "variant_id": "sh8_b4_p2",
+    "persona_ids": [
+      "pers_046",
+      "pers_057",
+      "pers_058",
+      "pers_055",
+      "pers_006",
+      "pers_045",
+      "pers_035",
+      "pers_098",
+      "pers_028",
+      "pers_091",
+      "pers_075"
+    ]
+  },
+  {
+    "variant_id": "sh8_b5_p0",
+    "persona_ids": [
+      "pers_079",
+      "pers_097",
+      "pers_106",
+      "pers_019",
+      "pers_026",
+      "pers_060",
+      "pers_009",
+      "pers_034",
+      "pers_033",
+      "pers_101",
+      "pers_014"
+    ]
+  },
+  {
+    "variant_id": "sh8_b5_p1",
+    "persona_ids": [
+      "pers_097",
+      "pers_014",
+      "pers_079",
+      "pers_009",
+      "pers_019",
+      "pers_101",
+      "pers_034",
+      "pers_060",
+      "pers_106",
+      "pers_033",
+      "pers_026"
+    ]
+  },
+  {
+    "variant_id": "sh8_b5_p2",
+    "persona_ids": [
+      "pers_060",
+      "pers_026",
+      "pers_101",
+      "pers_033",
+      "pers_079",
+      "pers_034",
+      "pers_009",
+      "pers_106",
+      "pers_014",
+      "pers_097",
+      "pers_019"
+    ]
+  },
+  {
+    "variant_id": "sh8_b6_p0",
+    "persona_ids": [
+      "pers_096",
+      "pers_081",
+      "pers_070",
+      "pers_041",
+      "pers_087",
+      "pers_073",
+      "pers_054",
+      "pers_017",
+      "pers_061",
+      "pers_023",
+      "pers_003"
+    ]
+  },
+  {
+    "variant_id": "sh8_b6_p1",
+    "persona_ids": [
+      "pers_061",
+      "pers_054",
+      "pers_070",
+      "pers_017",
+      "pers_087",
+      "pers_073",
+      "pers_096",
+      "pers_023",
+      "pers_041",
+      "pers_003",
+      "pers_081"
+    ]
+  },
+  {
+    "variant_id": "sh8_b6_p2",
+    "persona_ids": [
+      "pers_017",
+      "pers_081",
+      "pers_087",
+      "pers_054",
+      "pers_096",
+      "pers_023",
+      "pers_070",
+      "pers_061",
+      "pers_041",
+      "pers_073",
+      "pers_003"
+    ]
+  },
+  {
+    "variant_id": "sh8_b7_p0",
+    "persona_ids": [
+      "pers_010",
+      "pers_047",
+      "pers_102",
+      "pers_107",
+      "pers_015",
+      "pers_050",
+      "pers_002",
+      "pers_082",
+      "pers_068",
+      "pers_088",
+      "pers_064"
+    ]
+  },
+  {
+    "variant_id": "sh8_b7_p1",
+    "persona_ids": [
+      "pers_002",
+      "pers_068",
+      "pers_064",
+      "pers_082",
+      "pers_102",
+      "pers_088",
+      "pers_015",
+      "pers_107",
+      "pers_010",
+      "pers_050",
+      "pers_047"
+    ]
+  },
+  {
+    "variant_id": "sh8_b7_p2",
+    "persona_ids": [
+      "pers_010",
+      "pers_047",
+      "pers_015",
+      "pers_102",
+      "pers_064",
+      "pers_082",
+      "pers_002",
+      "pers_050",
+      "pers_068",
+      "pers_088",
+      "pers_107"
+    ]
+  },
+  {
+    "variant_id": "sh8_b8_p0",
+    "persona_ids": [
+      "pers_031",
+      "pers_038",
+      "pers_007",
+      "pers_039",
+      "pers_027",
+      "pers_051",
+      "pers_083",
+      "pers_067",
+      "pers_105",
+      "pers_025",
+      "pers_066"
+    ]
+  },
+  {
+    "variant_id": "sh8_b8_p1",
+    "persona_ids": [
+      "pers_051",
+      "pers_007",
+      "pers_067",
+      "pers_105",
+      "pers_066",
+      "pers_039",
+      "pers_027",
+      "pers_038",
+      "pers_025",
+      "pers_031",
+      "pers_083"
+    ]
+  },
+  {
+    "variant_id": "sh8_b8_p2",
+    "persona_ids": [
+      "pers_051",
+      "pers_031",
+      "pers_039",
+      "pers_067",
+      "pers_066",
+      "pers_025",
+      "pers_105",
+      "pers_007",
+      "pers_083",
+      "pers_038",
+      "pers_027"
+    ]
+  },
+  {
+    "variant_id": "sh8_b9_p0",
+    "persona_ids": [
+      "pers_085",
+      "pers_032",
+      "pers_089",
+      "pers_037",
+      "pers_108",
+      "pers_004",
+      "pers_077",
+      "pers_078",
+      "pers_093",
+      "pers_071",
+      "pers_100"
+    ]
+  },
+  {
+    "variant_id": "sh8_b9_p1",
+    "persona_ids": [
+      "pers_077",
+      "pers_089",
+      "pers_100",
+      "pers_108",
+      "pers_004",
+      "pers_093",
+      "pers_037",
+      "pers_032",
+      "pers_085",
+      "pers_071",
+      "pers_078"
+    ]
+  },
+  {
+    "variant_id": "sh8_b9_p2",
+    "persona_ids": [
+      "pers_032",
+      "pers_100",
+      "pers_093",
+      "pers_078",
+      "pers_037",
+      "pers_071",
+      "pers_077",
+      "pers_004",
+      "pers_085",
+      "pers_108",
+      "pers_089"
+    ]
+  },
+  {
+    "variant_id": "sh9_b0_p0",
+    "persona_ids": [
+      "pers_030",
+      "pers_100",
+      "pers_099",
+      "pers_009",
+      "pers_027",
+      "pers_033",
+      "pers_107",
+      "pers_061",
+      "pers_054",
+      "pers_020",
+      "pers_035"
+    ]
+  },
+  {
+    "variant_id": "sh9_b0_p1",
+    "persona_ids": [
+      "pers_100",
+      "pers_107",
+      "pers_009",
+      "pers_099",
+      "pers_054",
+      "pers_020",
+      "pers_035",
+      "pers_033",
+      "pers_061",
+      "pers_030",
+      "pers_027"
+    ]
+  },
+  {
+    "variant_id": "sh9_b0_p2",
+    "persona_ids": [
+      "pers_107",
+      "pers_100",
+      "pers_027",
+      "pers_035",
+      "pers_020",
+      "pers_061",
+      "pers_054",
+      "pers_009",
+      "pers_033",
+      "pers_099",
+      "pers_030"
+    ]
+  },
+  {
+    "variant_id": "sh9_b1_p0",
+    "persona_ids": [
+      "pers_083",
+      "pers_095",
+      "pers_036",
+      "pers_004",
+      "pers_034",
+      "pers_075",
+      "pers_053",
+      "pers_082",
+      "pers_012",
+      "pers_028",
+      "pers_103"
+    ]
+  },
+  {
+    "variant_id": "sh9_b1_p1",
+    "persona_ids": [
+      "pers_004",
+      "pers_012",
+      "pers_034",
+      "pers_036",
+      "pers_053",
+      "pers_103",
+      "pers_075",
+      "pers_095",
+      "pers_082",
+      "pers_028",
+      "pers_083"
+    ]
+  },
+  {
+    "variant_id": "sh9_b1_p2",
+    "persona_ids": [
+      "pers_075",
+      "pers_012",
+      "pers_034",
+      "pers_028",
+      "pers_004",
+      "pers_095",
+      "pers_103",
+      "pers_083",
+      "pers_036",
+      "pers_082",
+      "pers_053"
+    ]
+  },
+  {
+    "variant_id": "sh9_b2_p0",
+    "persona_ids": [
+      "pers_058",
+      "pers_025",
+      "pers_086",
+      "pers_070",
+      "pers_055",
+      "pers_031",
+      "pers_108",
+      "pers_080",
+      "pers_002",
+      "pers_064",
+      "pers_089"
+    ]
+  },
+  {
+    "variant_id": "sh9_b2_p1",
+    "persona_ids": [
+      "pers_002",
+      "pers_086",
+      "pers_031",
+      "pers_025",
+      "pers_064",
+      "pers_080",
+      "pers_089",
+      "pers_070",
+      "pers_055",
+      "pers_108",
+      "pers_058"
+    ]
+  },
+  {
+    "variant_id": "sh9_b2_p2",
+    "persona_ids": [
+      "pers_031",
+      "pers_080",
+      "pers_055",
+      "pers_025",
+      "pers_070",
+      "pers_058",
+      "pers_108",
+      "pers_002",
+      "pers_064",
+      "pers_086",
+      "pers_089"
+    ]
+  },
+  {
+    "variant_id": "sh9_b3_p0",
+    "persona_ids": [
+      "pers_050",
+      "pers_069",
+      "pers_074",
+      "pers_067",
+      "pers_006",
+      "pers_066",
+      "pers_087",
+      "pers_109",
+      "pers_014",
+      "pers_060",
+      "pers_045"
+    ]
+  },
+  {
+    "variant_id": "sh9_b3_p1",
+    "persona_ids": [
+      "pers_109",
+      "pers_014",
+      "pers_069",
+      "pers_066",
+      "pers_067",
+      "pers_074",
+      "pers_006",
+      "pers_045",
+      "pers_087",
+      "pers_060",
+      "pers_050"
+    ]
+  },
+  {
+    "variant_id": "sh9_b3_p2",
+    "persona_ids": [
+      "pers_050",
+      "pers_066",
+      "pers_045",
+      "pers_067",
+      "pers_060",
+      "pers_069",
+      "pers_109",
+      "pers_087",
+      "pers_014",
+      "pers_074",
+      "pers_006"
+    ]
+  },
+  {
+    "variant_id": "sh9_b4_p0",
+    "persona_ids": [
+      "pers_022",
+      "pers_007",
+      "pers_057",
+      "pers_093",
+      "pers_065",
+      "pers_062",
+      "pers_016",
+      "pers_032",
+      "pers_096",
+      "pers_090",
+      "pers_011"
+    ]
+  },
+  {
+    "variant_id": "sh9_b4_p1",
+    "persona_ids": [
+      "pers_007",
+      "pers_022",
+      "pers_093",
+      "pers_057",
+      "pers_065",
+      "pers_032",
+      "pers_016",
+      "pers_096",
+      "pers_062",
+      "pers_090",
+      "pers_011"
+    ]
+  },
+  {
+    "variant_id": "sh9_b4_p2",
+    "persona_ids": [
+      "pers_011",
+      "pers_022",
+      "pers_057",
+      "pers_007",
+      "pers_032",
+      "pers_093",
+      "pers_062",
+      "pers_090",
+      "pers_065",
+      "pers_096",
+      "pers_016"
+    ]
+  },
+  {
+    "variant_id": "sh9_b5_p0",
+    "persona_ids": [
+      "pers_088",
+      "pers_059",
+      "pers_084",
+      "pers_078",
+      "pers_024",
+      "pers_071",
+      "pers_037",
+      "pers_005",
+      "pers_094",
+      "pers_081",
+      "pers_052"
+    ]
+  },
+  {
+    "variant_id": "sh9_b5_p1",
+    "persona_ids": [
+      "pers_071",
+      "pers_024",
+      "pers_078",
+      "pers_088",
+      "pers_084",
+      "pers_094",
+      "pers_081",
+      "pers_005",
+      "pers_037",
+      "pers_059",
+      "pers_052"
+    ]
+  },
+  {
+    "variant_id": "sh9_b5_p2",
+    "persona_ids": [
+      "pers_078",
+      "pers_037",
+      "pers_024",
+      "pers_088",
+      "pers_059",
+      "pers_005",
+      "pers_081",
+      "pers_084",
+      "pers_052",
+      "pers_094",
+      "pers_071"
+    ]
+  },
+  {
+    "variant_id": "sh9_b6_p0",
+    "persona_ids": [
+      "pers_073",
+      "pers_072",
+      "pers_110",
+      "pers_105",
+      "pers_040",
+      "pers_046",
+      "pers_049",
+      "pers_077",
+      "pers_102",
+      "pers_029",
+      "pers_038"
+    ]
+  },
+  {
+    "variant_id": "sh9_b6_p1",
+    "persona_ids": [
+      "pers_029",
+      "pers_105",
+      "pers_038",
+      "pers_110",
+      "pers_049",
+      "pers_072",
+      "pers_102",
+      "pers_077",
+      "pers_046",
+      "pers_040",
+      "pers_073"
+    ]
+  },
+  {
+    "variant_id": "sh9_b6_p2",
+    "persona_ids": [
+      "pers_049",
+      "pers_040",
+      "pers_077",
+      "pers_073",
+      "pers_105",
+      "pers_029",
+      "pers_046",
+      "pers_072",
+      "pers_102",
+      "pers_110",
+      "pers_038"
+    ]
+  },
+  {
+    "variant_id": "sh9_b7_p0",
+    "persona_ids": [
+      "pers_097",
+      "pers_021",
+      "pers_018",
+      "pers_056",
+      "pers_051",
+      "pers_041",
+      "pers_101",
+      "pers_063",
+      "pers_039",
+      "pers_013",
+      "pers_106"
+    ]
+  },
+  {
+    "variant_id": "sh9_b7_p1",
+    "persona_ids": [
+      "pers_018",
+      "pers_021",
+      "pers_097",
+      "pers_041",
+      "pers_039",
+      "pers_063",
+      "pers_051",
+      "pers_101",
+      "pers_013",
+      "pers_106",
+      "pers_056"
+    ]
+  },
+  {
+    "variant_id": "sh9_b7_p2",
+    "persona_ids": [
+      "pers_097",
+      "pers_013",
+      "pers_106",
+      "pers_018",
+      "pers_101",
+      "pers_063",
+      "pers_051",
+      "pers_021",
+      "pers_056",
+      "pers_041",
+      "pers_039"
+    ]
+  },
+  {
+    "variant_id": "sh9_b8_p0",
+    "persona_ids": [
+      "pers_010",
+      "pers_068",
+      "pers_047",
+      "pers_003",
+      "pers_098",
+      "pers_015",
+      "pers_048",
+      "pers_091",
+      "pers_019",
+      "pers_085",
+      "pers_076"
+    ]
+  },
+  {
+    "variant_id": "sh9_b8_p1",
+    "persona_ids": [
+      "pers_076",
+      "pers_048",
+      "pers_085",
+      "pers_015",
+      "pers_091",
+      "pers_010",
+      "pers_047",
+      "pers_098",
+      "pers_003",
+      "pers_068",
+      "pers_019"
+    ]
+  },
+  {
+    "variant_id": "sh9_b8_p2",
+    "persona_ids": [
+      "pers_047",
+      "pers_019",
+      "pers_091",
+      "pers_015",
+      "pers_010",
+      "pers_003",
+      "pers_085",
+      "pers_048",
+      "pers_098",
+      "pers_076",
+      "pers_068"
+    ]
+  },
+  {
+    "variant_id": "sh9_b9_p0",
+    "persona_ids": [
+      "pers_008",
+      "pers_043",
+      "pers_092",
+      "pers_001",
+      "pers_104",
+      "pers_023",
+      "pers_079",
+      "pers_044",
+      "pers_017",
+      "pers_042",
+      "pers_026"
+    ]
+  },
+  {
+    "variant_id": "sh9_b9_p1",
+    "persona_ids": [
+      "pers_042",
+      "pers_104",
+      "pers_017",
+      "pers_043",
+      "pers_026",
+      "pers_044",
+      "pers_008",
+      "pers_001",
+      "pers_079",
+      "pers_023",
+      "pers_092"
+    ]
+  },
+  {
+    "variant_id": "sh9_b9_p2",
+    "persona_ids": [
+      "pers_042",
+      "pers_043",
+      "pers_023",
+      "pers_001",
+      "pers_017",
+      "pers_104",
+      "pers_092",
+      "pers_079",
+      "pers_044",
+      "pers_026",
+      "pers_008"
+    ]
+  }
+]
