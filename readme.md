@@ -10,7 +10,7 @@ This repository contains the full codebase, data, and evaluation pipeline for an
 ## Main Contributions
 1) First audit of Gemini 2 Flash Lite’s résumé ranking behavior using an intersectional lens.
 2) Reusable audit protocol to assess fairness in HR contexts.
-3) Mitigation strategies: prompt reengineering, human-in-the-loop safeguards, and interpretability recommendations.
+3) Mitigation strategies: continuous monitoring, human-in-the-loop safeguards, and interpretability probes.
 
 ## Repository Structure
 ```bash
