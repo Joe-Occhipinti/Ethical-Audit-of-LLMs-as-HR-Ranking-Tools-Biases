@@ -43,7 +43,7 @@ ethical-audit-llm-hr-gemini/
 ├── README.md
 └── LICENSE
 ```
-## Steps to Reproduce the Audit
+## Steps to Reproduce the Audit (do mind that full reproduction takes about 2-3 hours of API calls - AND REMEMBER TO PUT YOURS (2) IN ENV.)
 1) Clone the repository
 bash
 ```
