@@ -43,7 +43,10 @@ ethical-audit-llm-hr-gemini/
 ├── README.md
 └── LICENSE
 ```
-## Steps to Reproduce the Audit (do mind that full reproduction takes about 2-3 hours of API calls - AND REMEMBER TO PUT YOURS (2) IN ENV.)
+## Steps to Reproduce the Audit
+Before running the pipeline, do mind that full reproduction takes about 2-3 hours of API calls. REMEMBER TO PUT YOURS 2 KEYS IN .ENV.
+Running the experiment it's free: you just need 2 google accounts and generate one gemini api for each at this link: https://ai.google.dev/gemini-api/docs/api-key?hl=en)
+
 1) Clone the repository
 bash
 ```
