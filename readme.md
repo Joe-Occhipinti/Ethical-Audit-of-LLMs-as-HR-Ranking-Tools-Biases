@@ -17,87 +17,84 @@ This repository contains the full codebase, data, and evaluation pipeline for an
 ethical-audit-llm-hr-gemini/
 │
 ├── outputs/
-│   ├── personas_with_resumes/        # 96 synthetic persona files (JSON)
-│   ├── prompts/                      # Prompt templates for SWE and HR roles
-│   ├── batches/                      # All batch compositions and shuffles
-│   ├── runs/                         # API logs and generated model outputs
-│   └── metrics/                      # AIRs, SRs, p-values, regression results
+│   ├── personas
+│   ├── personas_with_resumes/     # 96 synthetic persona files (JSON)
+│   ├── prompts/                   # Prompt templates for SWE and HR roles
+│   ├── batches/                   # All batch compositions after shuffles
+│   ├── runs/                      # API logs and generated model outputs
+│   ├── plots/                     
+│   └── metrics/
 │
-├── templates/                        # Resume Jinja templates for SWE and HR
 │
-├── src/                              # All code modules
-│   ├── resume_generator.py           # Generates synthetic resumes from personas
-│   ├── compose_batches.py            # Creates shuffled evaluation batches
-│   ├── run_gemini_swe.py             # Prompts Gemini model for SWE role
-│   ├── run_gemini_hr.py              # Prompts Gemini model for HR role
-│   ├── run_air.py                    # Computes SR and AIR metrics
-│   └── run_statistical_tests.py      # Runs Fisher tests and GEE regression
+├── templates/                    # Resume Jinja templates for SWE and HR résumés
 │
-├── appendix/                         # Markdown tables and references for paper
+│                                 # All code modules       
+├── generate_personas.py
+├── prompt_builder.py                                     
+├── resume_generator.py           # Generates synthetic resumes from personas
+├── compose_batches.py            # Creates shuffled evaluation batches
+├── run_gemini_swe.py             # Prompts Gemini model for SWE role
+├── run_gemini_hr.py              # Prompts Gemini model for HR role
+├── run_air.py                    # Computes AIR metrics
+├── run_selection_rates.py        # Computes SR metrics            
+├── run_statistical_tests.py      # Runs Fisher tests (and GEE regression)
+│
 ├── requirements.txt
 ├── README.md
 └── LICENSE
 ```
-Steps to Reproduce the Audit
-Clone the repository
-
+## Steps to Reproduce the Audit
+1) Clone the repository
 bash
-Copia
-Modifica
-git clone https://github.com/your-username/ethical-audit-llm-hr-gemini.git
+```
+git clone https://github.com/Joe-Occhipinti/Ethical-Audit-of-LLMs-as-HR-Ranking-Tools-Biases.git
 cd ethical-audit-llm-hr-gemini
-Set up a virtual environment and install dependencies
-
+```
+2) Set up a virtual environment and install dependencies
 bash
-Copia
-Modifica
+```
 python3 -m venv env
 source env/bin/activate  # For Windows: .\env\Scripts\activate
 pip install -r requirements.txt
-Generate synthetic personas and resumes
-
+```
+3) Generate synthetic personas and resumes
 bash
-Copia
-Modifica
-python src/resume_generator.py
-Compose randomized batch variants
-
+```
+python generate_personas.py
+python resume_generator.py
+```
+4) Compose randomized batch variants
 bash
-Copia
-Modifica
-python src/compose_batches.py
-Run Gemini model prompts (SWE and HR roles)
-
+```
+python compose_batches.py
+```
+5) Run Gemini model prompts (SWE and HR roles)
 bash
-Copia
-Modifica
-python src/run_gemini_swe.py
-python src/run_gemini_hr.py
-Compute AIR and SR metrics
-
+```
+python run_gemini_swe.py
+python run_gemini_hr.py
+```
+6) Compute SR and AIR metrics
 bash
-Copia
-Modifica
-python src/run_air.py
-Run statistical tests (Fisher + GEE)
-
+```
+python run_selection_rates.py
+python run_air.py
+```
+7) Run statistical tests (Fisher + GEE) and plot
 bash
-Copia
-Modifica
-python src/run_statistical_tests.py
-Outputs
-AIR & SR tables: Adverse impact ratios and selection rates for each protected group.
+```
+python run_statistical_tests.py
+python run_plots.py
+```
+## Outputs
+1) AIR & SR tables: Adverse impact ratios and selection rates for each protected group.
+2) P-value tables: One-sided Fisher exact test with Holm correction.
+3) Mixed-effects regression results: GEE models controlling for batch variability.
+4) Plots for the above
+5) JSON files for: persona metadata, prompt templates, batch compositions, time stamped model runs (prompt + response)
 
-P-value tables: One-sided Fisher exact test with Holm correction.
+## Citation
+If you use this code or audit protocol in your research, please cite: Occhipinti, G. M. (2025). Who Gets to the Top?: Ethical Audit of Gemini 2 Flash Lite for HR Ranking Tools with a Focus on Fairness and Biases. University College Dublin
 
-Mixed-effects regression results: GEE models controlling for batch variability.
-
-Appendices: Metrics, reproducibility instructions, and JSON logs are available in the appendix/.
-
-Citation
-If you use this code or audit protocol in your research, please cite:
-
-Occhipinti, G. M. (2025). Who Gets to the Top?: Ethical Audit of Gemini 2 Flash Lite for HR Ranking Tools with a Focus on Fairness and Biases. University of Bologna.
-
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
